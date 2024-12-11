@@ -1,6 +1,11 @@
 {
-    "siteCount": 27278,
+    "siteCount": 27282,
     "recentlyMoved": [
+        {
+            "domain_name": "www.maatsecurity.de",
+            "destination": "Kinsta",
+            "date": "2024-12-11 04:59:17"
+        },
         {
             "domain_name": "welisten.online",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "www.dentspecialists.net",
             "destination": "Digital Ocean",
             "date": "2024-12-10 16:16:15"
-        },
-        {
-            "domain_name": "hgstonekingcontracting.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-10 16:08:35"
         }
     ],
     "dailyMovedStat": {
