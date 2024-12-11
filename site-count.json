@@ -1,10 +1,115 @@
 {
-    "siteCount": 27355,
+    "siteCount": 27386,
     "recentlyMoved": [
+        {
+            "domain_name": "kidstuff-usa.com",
+            "destination": "Pressable",
+            "date": "2024-12-11 13:43:26"
+        },
+        {
+            "domain_name": "jfayacht.com",
+            "destination": "SiteGround",
+            "date": "2024-12-11 13:25:46"
+        },
+        {
+            "domain_name": "celebratemayordesulme.com",
+            "destination": "Kinsta",
+            "date": "2024-12-11 13:24:12"
+        },
+        {
+            "domain_name": "centralcooling.com",
+            "destination": "Kinsta",
+            "date": "2024-12-11 13:21:04"
+        },
+        {
+            "domain_name": "www.lmrconstructionllc.com",
+            "destination": "Pressable",
+            "date": "2024-12-11 13:20:19"
+        },
+        {
+            "domain_name": "www.lkandersondds.com",
+            "destination": "Kinsta",
+            "date": "2024-12-11 13:20:19"
+        },
+        {
+            "domain_name": "russwilliamsdesign.com",
+            "destination": "GridPane",
+            "date": "2024-12-11 13:18:11"
+        },
+        {
+            "domain_name": "seektobewise.com",
+            "destination": "Pressable",
+            "date": "2024-12-11 13:17:55"
+        },
+        {
+            "domain_name": "borobrowblading.com",
+            "destination": "SiteGround",
+            "date": "2024-12-11 13:16:44"
+        },
+        {
+            "domain_name": "capteazyjunk.com",
+            "destination": "Kinsta",
+            "date": "2024-12-11 13:16:11"
+        },
+        {
+            "domain_name": "saintjohnsbeltsville.org",
+            "destination": "Kinsta",
+            "date": "2024-12-11 13:15:34"
+        },
+        {
+            "domain_name": "shojispa.com",
+            "destination": "SiteGround",
+            "date": "2024-12-11 13:12:33"
+        },
+        {
+            "domain_name": "www.fjerby.no",
+            "destination": "Digital Ocean",
+            "date": "2024-12-11 12:54:36"
+        },
+        {
+            "domain_name": "hesod.com",
+            "destination": "SiteGround",
+            "date": "2024-12-11 12:51:34"
+        },
+        {
+            "domain_name": "www.ink.nl",
+            "destination": "Kinsta",
+            "date": "2024-12-11 12:50:53"
+        },
+        {
+            "domain_name": "jmpurdydds.com",
+            "destination": "Kinsta",
+            "date": "2024-12-11 12:50:04"
+        },
+        {
+            "domain_name": "sawyermediagroup.com",
+            "destination": "Pressable",
+            "date": "2024-12-11 12:43:28"
+        },
         {
             "domain_name": "www.stubbsinsurance.com",
             "destination": "Kinsta",
             "date": "2024-12-11 12:21:30"
+        },
+        {
+            "domain_name": "innocuranephrology.com",
+            "destination": "Kinsta",
+            "date": "2024-12-11 12:20:59"
+        },
+        {
+            "domain_name": "bandwsalvage.com",
+            "destination": "SiteGround",
+            "date": "2024-12-11 12:17:47"
+        },
+        {
+            "domain_name": "heritageyorktown.com",
+            "destination": "SiteGround",
+            "date": "2024-12-11 12:11:10"
+        },
+        {
+            "domain_name": "heritageunioncity.com",
+            "destination": "SiteGround",
+            "date": "2024-12-11 12:11:10"
         },
         {
             "domain_name": "www.carolinalandscapes.net",
@@ -382,11 +487,6 @@
             "date": "2024-12-10 21:15:49"
         },
         {
-            "domain_name": "homesaleleaseback.com",
-            "destination": "Hostinger",
-            "date": "2024-12-10 21:07:00"
-        },
-        {
             "domain_name": "jensentravel.com",
             "destination": "SiteGround",
             "date": "2024-12-10 21:05:02"
@@ -400,106 +500,6 @@
             "domain_name": "www.hilgersorthodontics.com",
             "destination": "Kinsta",
             "date": "2024-12-10 20:42:25"
-        },
-        {
-            "domain_name": "www.comfortacandheating.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-10 20:40:50"
-        },
-        {
-            "domain_name": "www.elitesmilesja.com",
-            "destination": "Kinsta",
-            "date": "2024-12-10 20:40:02"
-        },
-        {
-            "domain_name": "www.gilbertdentalcenter.com",
-            "destination": "Kinsta",
-            "date": "2024-12-10 20:33:39"
-        },
-        {
-            "domain_name": "blairbenefits.com",
-            "destination": "Pressable",
-            "date": "2024-12-10 20:32:57"
-        },
-        {
-            "domain_name": "word-shop.com",
-            "destination": "BigScoots",
-            "date": "2024-12-10 20:25:47"
-        },
-        {
-            "domain_name": "www.baehrheatandair.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-10 20:19:43"
-        },
-        {
-            "domain_name": "www.holtdentalcare.net",
-            "destination": "Kinsta",
-            "date": "2024-12-10 20:11:21"
-        },
-        {
-            "domain_name": "www.nuvinair.com",
-            "destination": "Kinsta",
-            "date": "2024-12-10 20:11:13"
-        },
-        {
-            "domain_name": "www.trialtheory.com",
-            "destination": "Bluehost",
-            "date": "2024-12-10 20:11:13"
-        },
-        {
-            "domain_name": "www.cochranfirm.com",
-            "destination": "Kinsta",
-            "date": "2024-12-10 20:11:13"
-        },
-        {
-            "domain_name": "ww99.brodyskinnerphotography.com",
-            "destination": "Liquid Web",
-            "date": "2024-12-10 20:11:13"
-        },
-        {
-            "domain_name": "hbdi.de",
-            "destination": "Digital Ocean",
-            "date": "2024-12-10 20:08:47"
-        },
-        {
-            "domain_name": "advancedrepairandmaintenance.com",
-            "destination": "SiteGround",
-            "date": "2024-12-10 20:05:27"
-        },
-        {
-            "domain_name": "4degreesbrewing.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-10 20:00:11"
-        },
-        {
-            "domain_name": "affirmationsheal.com",
-            "destination": "Hostinger",
-            "date": "2024-12-10 19:55:23"
-        },
-        {
-            "domain_name": "www.highlandsdental.com",
-            "destination": "Kinsta",
-            "date": "2024-12-10 19:55:21"
-        },
-        {
-            "domain_name": "fingercramp.com",
-            "destination": "Pressable",
-            "date": "2024-12-10 19:50:42"
-        },
-        {
-            "domain_name": "fearfree.co.nz",
-            "destination": "Digital Ocean",
-            "date": "2024-12-10 19:48:54"
-        },
-        {
-            "domain_name": "anchorfundings.com",
-            "destination": "GoDaddy",
-            "date": "2024-12-10 19:41:33"
-        },
-        {
-            "domain_name": "odyssey-fm.com",
-            "destination": "Bluehost",
-            "date": "2024-12-10 19:11:10"
         }
     ],
     "dailyMovedStat": {
@@ -586,11 +586,11 @@
         "2024-12-10": "27235"
     },
     "topDestinationHosts": {
-        "Pressable": 6240,
+        "Pressable": 6244,
         "Bluehost": 3506,
-        "Digital Ocean": 1706,
-        "Kinsta": 1634,
-        "SiteGround": 1535,
+        "Digital Ocean": 1707,
+        "Kinsta": 1643,
+        "SiteGround": 1542,
         "Hostinger": 870,
         "GoDaddy": 408,
         "BigScoots": 253,
@@ -600,7 +600,7 @@
         "WordPress.com": 121,
         "InMotion Hosting": 109,
         "OVH": 95,
-        "GridPane": 92,
+        "GridPane": 93,
         "A2 Hosting": 76,
         "IONOS": 68,
         "Namecheap": 66,
