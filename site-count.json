@@ -1,6 +1,11 @@
 {
-    "siteCount": 27752,
+    "siteCount": 27753,
     "recentlyMoved": [
+        {
+            "domain_name": "faith4lifeaus.com",
+            "destination": "DreamHost",
+            "date": "2024-12-12 11:00:39"
+        },
         {
             "domain_name": "brothernarms.com",
             "destination": "HostGator",
@@ -487,11 +492,6 @@
             "date": "2024-12-11 19:04:04"
         },
         {
-            "domain_name": "traceybreeden.com",
-            "destination": "BigScoots",
-            "date": "2024-12-11 18:49:35"
-        },
-        {
             "domain_name": "ultimateplumbinginc.com",
             "destination": "Bluehost",
             "date": "2024-12-11 18:28:14"
@@ -606,7 +606,7 @@
         "Hetzner Online": 69,
         "IONOS": 69,
         "Namecheap": 68,
-        "DreamHost": 55
+        "DreamHost": 56
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
