@@ -1,6 +1,11 @@
 {
-    "siteCount": 27725,
+    "siteCount": 27729,
     "recentlyMoved": [
+        {
+            "domain_name": "tracibuckphotography.com",
+            "destination": "IONOS",
+            "date": "2024-12-12 06:35:33"
+        },
         {
             "domain_name": "dagsam.dk",
             "destination": "SiteGround",
@@ -482,11 +487,6 @@
             "date": "2024-12-11 18:22:45"
         },
         {
-            "domain_name": "maxplay.co.nz",
-            "destination": "Digital Ocean",
-            "date": "2024-12-11 18:17:06"
-        },
-        {
             "domain_name": "tooth.co.nz",
             "destination": "Digital Ocean",
             "date": "2024-12-11 18:13:47"
@@ -604,8 +604,8 @@
         "GridPane": 95,
         "A2 Hosting": 76,
         "Hetzner Online": 69,
+        "IONOS": 69,
         "Namecheap": 68,
-        "IONOS": 68,
         "DreamHost": 55
     },
     "dailyTotalStat": {
