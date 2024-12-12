@@ -1,10 +1,30 @@
 {
-    "siteCount": 28033,
+    "siteCount": 28038,
     "recentlyMoved": [
+        {
+            "domain_name": "vacuumsbrantford.com",
+            "destination": "Pressable",
+            "date": "2024-12-12 23:03:09"
+        },
+        {
+            "domain_name": "tlathome.com",
+            "destination": "Bluehost",
+            "date": "2024-12-12 22:55:16"
+        },
+        {
+            "domain_name": "eastlaw.ca",
+            "destination": "Pressable",
+            "date": "2024-12-12 22:50:18"
+        },
         {
             "domain_name": "dmprecision.ca",
             "destination": "Pressable",
             "date": "2024-12-12 22:45:13"
+        },
+        {
+            "domain_name": "ecopearl.ca",
+            "destination": "Pressable",
+            "date": "2024-12-12 22:32:59"
         },
         {
             "domain_name": "creeksidemaze.com",
@@ -467,19 +487,9 @@
             "date": "2024-12-12 16:27:52"
         },
         {
-            "domain_name": "porterkinney.com",
-            "destination": "Pressable",
-            "date": "2024-12-12 16:13:53"
-        },
-        {
             "domain_name": "redco504.org",
             "destination": "GoDaddy",
             "date": "2024-12-12 16:09:00"
-        },
-        {
-            "domain_name": "www.premiercarenurses.com",
-            "destination": "Pressable",
-            "date": "2024-12-12 16:07:08"
         },
         {
             "domain_name": "www.charmcarservice.com",
@@ -490,16 +500,6 @@
             "domain_name": "hamiltondenturist.ca",
             "destination": "Pressable",
             "date": "2024-12-12 15:57:38"
-        },
-        {
-            "domain_name": "grrc.ca",
-            "destination": "Pressable",
-            "date": "2024-12-12 15:51:30"
-        },
-        {
-            "domain_name": "www.smilesnbraces.com",
-            "destination": "Kinsta",
-            "date": "2024-12-12 15:49:39"
         }
     ],
     "dailyMovedStat": {
@@ -584,13 +584,14 @@
         "2024-12-08": "26828",
         "2024-12-09": "26944",
         "2024-12-10": "27235",
-        "2024-12-11": "27669"
+        "2024-12-11": "27669",
+        "2024-12-12": "28038"
     },
     "topDestinationHosts": {
-        "Pressable": 6369,
-        "Bluehost": 3513,
+        "Pressable": 6373,
+        "Bluehost": 3514,
         "Digital Ocean": 1743,
-        "Kinsta": 1727,
+        "Kinsta": 1729,
         "SiteGround": 1578,
         "Hostinger": 887,
         "GoDaddy": 426,
@@ -690,6 +691,7 @@
         "2024-12-08": "699485",
         "2024-12-09": "698652",
         "2024-12-10": "697735",
-        "2024-12-11": "696939"
+        "2024-12-11": "696939",
+        "2024-12-12": "696102"
     }
 }
