@@ -1,6 +1,16 @@
 {
-    "siteCount": 27682,
+    "siteCount": 27690,
     "recentlyMoved": [
+        {
+            "domain_name": "www.hardyba.com.au",
+            "destination": "Kinsta",
+            "date": "2024-12-12 01:10:34"
+        },
+        {
+            "domain_name": "hormone-zone.com",
+            "destination": "Namecheap",
+            "date": "2024-12-12 00:42:30"
+        },
         {
             "domain_name": "procladd.co.nz",
             "destination": "Digital Ocean",
@@ -487,19 +497,9 @@
             "date": "2024-12-11 17:25:32"
         },
         {
-            "domain_name": "www.michaelgreenbaumdds.com",
-            "destination": "Kinsta",
-            "date": "2024-12-11 17:25:20"
-        },
-        {
             "domain_name": "cmusuites.com",
             "destination": "Pressable",
             "date": "2024-12-11 17:24:47"
-        },
-        {
-            "domain_name": "www.meadowhillsdental.com",
-            "destination": "Kinsta",
-            "date": "2024-12-11 17:12:51"
         }
     ],
     "dailyMovedStat": {
@@ -587,10 +587,10 @@
         "2024-12-11": "27669"
     },
     "topDestinationHosts": {
-        "Pressable": 6300,
+        "Pressable": 6301,
         "Bluehost": 3508,
-        "Digital Ocean": 1728,
-        "Kinsta": 1680,
+        "Digital Ocean": 1729,
+        "Kinsta": 1681,
         "SiteGround": 1563,
         "Hostinger": 879,
         "GoDaddy": 418,
@@ -603,8 +603,8 @@
         "OVH": 96,
         "GridPane": 95,
         "A2 Hosting": 76,
+        "Namecheap": 68,
         "IONOS": 68,
-        "Namecheap": 67,
         "Hetzner Online": 66,
         "DreamHost": 55
     },
