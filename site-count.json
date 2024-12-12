@@ -1,6 +1,61 @@
 {
-    "siteCount": 28013,
+    "siteCount": 28033,
     "recentlyMoved": [
+        {
+            "domain_name": "dmprecision.ca",
+            "destination": "Pressable",
+            "date": "2024-12-12 22:45:13"
+        },
+        {
+            "domain_name": "creeksidemaze.com",
+            "destination": "SiteGround",
+            "date": "2024-12-12 21:59:18"
+        },
+        {
+            "domain_name": "costescu.ca",
+            "destination": "Pressable",
+            "date": "2024-12-12 21:58:29"
+        },
+        {
+            "domain_name": "melibeeglobalspeakers.com",
+            "destination": "Kinsta",
+            "date": "2024-12-12 21:57:25"
+        },
+        {
+            "domain_name": "melibeeglobal.com",
+            "destination": "Kinsta",
+            "date": "2024-12-12 21:57:25"
+        },
+        {
+            "domain_name": "colonialtree.ca",
+            "destination": "Pressable",
+            "date": "2024-12-12 21:54:54"
+        },
+        {
+            "domain_name": "coloradopoolscapes.com",
+            "destination": "Pressable",
+            "date": "2024-12-12 21:46:11"
+        },
+        {
+            "domain_name": "www.pacificgreenlandscape.com",
+            "destination": "Kinsta",
+            "date": "2024-12-12 21:21:00"
+        },
+        {
+            "domain_name": "www.ph1performance.com",
+            "destination": "Pressable",
+            "date": "2024-12-12 21:12:05"
+        },
+        {
+            "domain_name": "chiropractorfortlauderdaleflorida.com",
+            "destination": "Pressable",
+            "date": "2024-12-12 21:10:05"
+        },
+        {
+            "domain_name": "www.mindspringsfoundation.org",
+            "destination": "Pressable",
+            "date": "2024-12-12 21:07:53"
+        },
         {
             "domain_name": "keepnapaneegreat.com",
             "destination": "Pressable",
@@ -397,11 +452,6 @@
             "date": "2024-12-12 16:43:46"
         },
         {
-            "domain_name": "goffdental.com",
-            "destination": "Kinsta",
-            "date": "2024-12-12 16:32:10"
-        },
-        {
             "domain_name": "pwright.photo",
             "destination": "Pressable",
             "date": "2024-12-12 16:31:00"
@@ -412,24 +462,9 @@
             "date": "2024-12-12 16:30:58"
         },
         {
-            "domain_name": "goodhealthandfitness.co.uk",
-            "destination": "Kinsta",
-            "date": "2024-12-12 16:28:21"
-        },
-        {
             "domain_name": "www.flyfishhookers.com",
             "destination": "Pressable",
             "date": "2024-12-12 16:27:52"
-        },
-        {
-            "domain_name": "plumbingservicehamilton.com",
-            "destination": "Pressable",
-            "date": "2024-12-12 16:23:43"
-        },
-        {
-            "domain_name": "pmhdentaloncology.ca",
-            "destination": "Pressable",
-            "date": "2024-12-12 16:17:32"
         },
         {
             "domain_name": "porterkinney.com",
@@ -437,19 +472,9 @@
             "date": "2024-12-12 16:13:53"
         },
         {
-            "domain_name": "altaseattle.com",
-            "destination": "Hostinger",
-            "date": "2024-12-12 16:09:53"
-        },
-        {
             "domain_name": "redco504.org",
             "destination": "GoDaddy",
             "date": "2024-12-12 16:09:00"
-        },
-        {
-            "domain_name": "pettaconstruction.com",
-            "destination": "Pressable",
-            "date": "2024-12-12 16:07:52"
         },
         {
             "domain_name": "www.premiercarenurses.com",
@@ -467,39 +492,14 @@
             "date": "2024-12-12 15:57:38"
         },
         {
-            "domain_name": "855anyjunk.com",
-            "destination": "Hostinger",
-            "date": "2024-12-12 15:54:50"
-        },
-        {
             "domain_name": "grrc.ca",
             "destination": "Pressable",
             "date": "2024-12-12 15:51:30"
         },
         {
-            "domain_name": "paperfibresinc.com",
-            "destination": "Pressable",
-            "date": "2024-12-12 15:49:55"
-        },
-        {
             "domain_name": "www.smilesnbraces.com",
             "destination": "Kinsta",
             "date": "2024-12-12 15:49:39"
-        },
-        {
-            "domain_name": "pipestonerealty.com",
-            "destination": "Hostinger",
-            "date": "2024-12-12 15:45:56"
-        },
-        {
-            "domain_name": "pintoh.ca",
-            "destination": "Pressable",
-            "date": "2024-12-12 15:45:56"
-        },
-        {
-            "domain_name": "www.coodinoverson.com",
-            "destination": "SiteGround",
-            "date": "2024-12-12 15:26:23"
         }
     ],
     "dailyMovedStat": {
@@ -587,11 +587,11 @@
         "2024-12-11": "27669"
     },
     "topDestinationHosts": {
-        "Pressable": 6362,
+        "Pressable": 6369,
         "Bluehost": 3513,
         "Digital Ocean": 1743,
-        "Kinsta": 1726,
-        "SiteGround": 1577,
+        "Kinsta": 1727,
+        "SiteGround": 1578,
         "Hostinger": 887,
         "GoDaddy": 426,
         "BigScoots": 262,
