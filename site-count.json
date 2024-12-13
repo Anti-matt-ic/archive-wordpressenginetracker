@@ -1,10 +1,55 @@
 {
-    "siteCount": 28433,
+    "siteCount": 28449,
     "recentlyMoved": [
+        {
+            "domain_name": "thelawyersmarketer.com",
+            "destination": "Pressable",
+            "date": "2024-12-13 22:27:42"
+        },
+        {
+            "domain_name": "www.wrm.ca",
+            "destination": "Hostinger",
+            "date": "2024-12-13 22:21:45"
+        },
+        {
+            "domain_name": "www.wrightlawaspen.com",
+            "destination": "Pressable",
+            "date": "2024-12-13 22:21:45"
+        },
+        {
+            "domain_name": "cryocure.com",
+            "destination": "Digital Ocean",
+            "date": "2024-12-13 22:05:24"
+        },
+        {
+            "domain_name": "crubsy.com",
+            "destination": "SiteGround",
+            "date": "2024-12-13 22:05:24"
+        },
+        {
+            "domain_name": "cmgwest.com",
+            "destination": "Kinsta",
+            "date": "2024-12-13 22:00:03"
+        },
+        {
+            "domain_name": "concreteplacers.co.nz",
+            "destination": "Digital Ocean",
+            "date": "2024-12-13 21:58:52"
+        },
         {
             "domain_name": "shiraadler.com",
             "destination": "Digital Ocean",
             "date": "2024-12-13 21:37:48"
+        },
+        {
+            "domain_name": "surfmetemc.ca",
+            "destination": "Pressable",
+            "date": "2024-12-13 21:33:06"
+        },
+        {
+            "domain_name": "kikidaza.com",
+            "destination": "GoDaddy",
+            "date": "2024-12-13 21:20:56"
         },
         {
             "domain_name": "screenrop.ca",
@@ -25,6 +70,11 @@
             "domain_name": "independencetravelagency.com",
             "destination": "SiteGround",
             "date": "2024-12-13 21:10:24"
+        },
+        {
+            "domain_name": "soltanpourlaw.com",
+            "destination": "Pressable",
+            "date": "2024-12-13 21:07:21"
         },
         {
             "domain_name": "canconevent.com",
@@ -442,64 +492,14 @@
             "date": "2024-12-13 17:45:29"
         },
         {
-            "domain_name": "www.mustangpoolservice.com",
-            "destination": "Pressable",
-            "date": "2024-12-13 17:35:41"
-        },
-        {
-            "domain_name": "www.mindfulelec.com",
-            "destination": "Pressable",
-            "date": "2024-12-13 17:30:35"
-        },
-        {
             "domain_name": "www.superiorplantscapes.com",
             "destination": "Pressable",
             "date": "2024-12-13 17:29:13"
         },
         {
-            "domain_name": "www.ourschoolglenwood.org",
-            "destination": "Pressable",
-            "date": "2024-12-13 17:23:25"
-        },
-        {
-            "domain_name": "www.mygreatsmile.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-13 17:20:45"
-        },
-        {
             "domain_name": "livelaughlovegiftboutique.com",
             "destination": "Hostinger",
             "date": "2024-12-13 17:19:21"
-        },
-        {
-            "domain_name": "skinnerclouse.com",
-            "destination": "BigScoots",
-            "date": "2024-12-13 17:15:44"
-        },
-        {
-            "domain_name": "kfugradio.org",
-            "destination": "Pressable",
-            "date": "2024-12-13 17:10:53"
-        },
-        {
-            "domain_name": "www.newcastlechamber.org",
-            "destination": "Pressable",
-            "date": "2024-12-13 17:08:26"
-        },
-        {
-            "domain_name": "www.loft20.co",
-            "destination": "Pressable",
-            "date": "2024-12-13 17:05:55"
-        },
-        {
-            "domain_name": "southsidespaces.com",
-            "destination": "Kinsta",
-            "date": "2024-12-13 17:02:58"
-        },
-        {
-            "domain_name": "chicopeechilddevelopmentcenter.com",
-            "destination": "SiteGround",
-            "date": "2024-12-13 17:02:00"
         }
     ],
     "dailyMovedStat": {
@@ -588,13 +588,13 @@
         "2024-12-12": "28038"
     },
     "topDestinationHosts": {
-        "Pressable": 6447,
+        "Pressable": 6450,
         "Bluehost": 3516,
-        "Kinsta": 1800,
-        "Digital Ocean": 1763,
-        "SiteGround": 1594,
+        "Kinsta": 1801,
+        "Digital Ocean": 1765,
+        "SiteGround": 1595,
         "Hostinger": 900,
-        "GoDaddy": 432,
+        "GoDaddy": 433,
         "BigScoots": 265,
         "Elementor Hosting": 193,
         "Liquid Web": 183,
