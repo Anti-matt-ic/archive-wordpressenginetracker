@@ -1,10 +1,30 @@
 {
-    "siteCount": 28088,
+    "siteCount": 28096,
     "recentlyMoved": [
+        {
+            "domain_name": "jurgensenpump.com",
+            "destination": "SiteGround",
+            "date": "2024-12-13 09:37:00"
+        },
+        {
+            "domain_name": "bullseyerecruitment.com",
+            "destination": "Pressable",
+            "date": "2024-12-13 09:06:45"
+        },
+        {
+            "domain_name": "reportible.com",
+            "destination": "SiteGround",
+            "date": "2024-12-13 08:53:25"
+        },
         {
             "domain_name": "omnia-creative.com",
             "destination": "SiteGround",
             "date": "2024-12-13 08:05:45"
+        },
+        {
+            "domain_name": "ballardsllp.com",
+            "destination": "SiteGround",
+            "date": "2024-12-13 08:01:05"
         },
         {
             "domain_name": "onesessioncoaching.nl",
@@ -467,11 +487,6 @@
             "date": "2024-12-12 17:54:36"
         },
         {
-            "domain_name": "www.riverbridgerc.org",
-            "destination": "Pressable",
-            "date": "2024-12-12 17:48:00"
-        },
-        {
             "domain_name": "macgregorukcarparts.com",
             "destination": "Pressable",
             "date": "2024-12-12 17:43:47"
@@ -485,21 +500,6 @@
             "domain_name": "tepunawaitours.co.nz",
             "destination": "Digital Ocean",
             "date": "2024-12-12 17:38:02"
-        },
-        {
-            "domain_name": "www.redelephantway.com",
-            "destination": "GoDaddy",
-            "date": "2024-12-12 17:28:16"
-        },
-        {
-            "domain_name": "www.porterkinney.com",
-            "destination": "Pressable",
-            "date": "2024-12-12 17:16:52"
-        },
-        {
-            "domain_name": "www.mspdesign1.com",
-            "destination": "Kinsta",
-            "date": "2024-12-12 17:15:54"
         }
     ],
     "dailyMovedStat": {
@@ -588,11 +588,11 @@
         "2024-12-12": "28038"
     },
     "topDestinationHosts": {
-        "Pressable": 6384,
+        "Pressable": 6385,
         "Bluehost": 3514,
         "Digital Ocean": 1746,
         "Kinsta": 1734,
-        "SiteGround": 1580,
+        "SiteGround": 1583,
         "Hostinger": 887,
         "GoDaddy": 427,
         "BigScoots": 262,
