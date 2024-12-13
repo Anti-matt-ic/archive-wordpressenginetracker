@@ -1,6 +1,41 @@
 {
-    "siteCount": 28052,
+    "siteCount": 28066,
     "recentlyMoved": [
+        {
+            "domain_name": "lindsayocreative.com",
+            "destination": "Pressable",
+            "date": "2024-12-13 02:16:16"
+        },
+        {
+            "domain_name": "www.recoilweb.com",
+            "destination": "Kinsta",
+            "date": "2024-12-13 02:11:09"
+        },
+        {
+            "domain_name": "mccabefamilydentistry.ca",
+            "destination": "Pressable",
+            "date": "2024-12-13 02:09:41"
+        },
+        {
+            "domain_name": "supportkingston.ca",
+            "destination": "Pressable",
+            "date": "2024-12-13 01:53:28"
+        },
+        {
+            "domain_name": "lightbodymarketing.com",
+            "destination": "Pressable",
+            "date": "2024-12-13 01:36:48"
+        },
+        {
+            "domain_name": "slashsoccer.com",
+            "destination": "Pressable",
+            "date": "2024-12-13 01:24:27"
+        },
+        {
+            "domain_name": "cestbon.com.au",
+            "destination": "Kinsta",
+            "date": "2024-12-13 01:13:47"
+        },
         {
             "domain_name": "simplyeloped.com",
             "destination": "Pressable",
@@ -437,16 +472,6 @@
             "date": "2024-12-12 17:09:37"
         },
         {
-            "domain_name": "www.employeebenefitscommunications.com",
-            "destination": "GoDaddy",
-            "date": "2024-12-12 17:06:02"
-        },
-        {
-            "domain_name": "www.glenwoodspringscedarlodge.com",
-            "destination": "Pressable",
-            "date": "2024-12-12 17:03:04"
-        },
-        {
             "domain_name": "www.mindspringshealth.org",
             "destination": "Pressable",
             "date": "2024-12-12 17:01:15"
@@ -457,19 +482,9 @@
             "date": "2024-12-12 17:01:15"
         },
         {
-            "domain_name": "hoofboots.ie",
-            "destination": "SiteGround",
-            "date": "2024-12-12 16:57:58"
-        },
-        {
             "domain_name": "kellybraschinteriors.com",
             "destination": "SiteGround",
             "date": "2024-12-12 16:57:56"
-        },
-        {
-            "domain_name": "bensonwood.com",
-            "destination": "Kinsta",
-            "date": "2024-12-12 16:55:29"
         },
         {
             "domain_name": "shipiborao.com",
@@ -485,21 +500,6 @@
             "domain_name": "sanco-contractors.com",
             "destination": "SiteGround",
             "date": "2024-12-12 16:51:01"
-        },
-        {
-            "domain_name": "www.esteacosmetic.com",
-            "destination": "Kinsta",
-            "date": "2024-12-12 16:48:44"
-        },
-        {
-            "domain_name": "rmarocks.ca",
-            "destination": "Pressable",
-            "date": "2024-12-12 16:43:46"
-        },
-        {
-            "domain_name": "www.flyfishhookers.com",
-            "destination": "Pressable",
-            "date": "2024-12-12 16:27:52"
         }
     ],
     "dailyMovedStat": {
@@ -588,10 +588,10 @@
         "2024-12-12": "28038"
     },
     "topDestinationHosts": {
-        "Pressable": 6377,
+        "Pressable": 6382,
         "Bluehost": 3514,
         "Digital Ocean": 1744,
-        "Kinsta": 1730,
+        "Kinsta": 1732,
         "SiteGround": 1578,
         "Hostinger": 887,
         "GoDaddy": 427,
