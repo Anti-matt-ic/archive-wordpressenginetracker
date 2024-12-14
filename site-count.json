@@ -1,6 +1,121 @@
 {
-    "siteCount": 28645,
+    "siteCount": 28713,
     "recentlyMoved": [
+        {
+            "domain_name": "au.southerncomfort.com",
+            "destination": "Kinsta",
+            "date": "2024-12-14 20:38:37"
+        },
+        {
+            "domain_name": "www.sculptmdmedspa.com",
+            "destination": "Namecheap",
+            "date": "2024-12-14 20:37:33"
+        },
+        {
+            "domain_name": "www.sayenkodesign.com",
+            "destination": "Kinsta",
+            "date": "2024-12-14 20:37:33"
+        },
+        {
+            "domain_name": "proparinc.com",
+            "destination": "SiteGround",
+            "date": "2024-12-14 20:24:13"
+        },
+        {
+            "domain_name": "www.unpromptu.com",
+            "destination": "Pressable",
+            "date": "2024-12-14 20:17:05"
+        },
+        {
+            "domain_name": "www.gardant.com",
+            "destination": "Liquid Web",
+            "date": "2024-12-14 20:16:13"
+        },
+        {
+            "domain_name": "ww99.spear-tactical.com",
+            "destination": "Liquid Web",
+            "date": "2024-12-14 20:16:13"
+        },
+        {
+            "domain_name": "senoktea.cyberstudio.biz",
+            "destination": "Hostinger",
+            "date": "2024-12-14 20:16:13"
+        },
+        {
+            "domain_name": "www.rapidplumbingmelbourne.com.au",
+            "destination": "SiteGround",
+            "date": "2024-12-14 20:16:13"
+        },
+        {
+            "domain_name": "ww99.onlineturkishclub.com",
+            "destination": "Liquid Web",
+            "date": "2024-12-14 20:16:13"
+        },
+        {
+            "domain_name": "ilovestax.com",
+            "destination": "Bluehost",
+            "date": "2024-12-14 20:16:13"
+        },
+        {
+            "domain_name": "www.mekanismo.com",
+            "destination": "DreamHost",
+            "date": "2024-12-14 20:16:13"
+        },
+        {
+            "domain_name": "www.hovergirlproperties.com",
+            "destination": "Elementor Hosting",
+            "date": "2024-12-14 20:16:13"
+        },
+        {
+            "domain_name": "www.familydentalboynton.com",
+            "destination": "Digital Ocean",
+            "date": "2024-12-14 20:16:13"
+        },
+        {
+            "domain_name": "sfnrhokc.elementor.cloud",
+            "destination": "Elementor Hosting",
+            "date": "2024-12-14 20:16:13"
+        },
+        {
+            "domain_name": "goodygaragedoors.com",
+            "destination": "Kinsta",
+            "date": "2024-12-14 20:16:13"
+        },
+        {
+            "domain_name": "poolcoversinc.com",
+            "destination": "Digital Ocean",
+            "date": "2024-12-14 19:59:30"
+        },
+        {
+            "domain_name": "goosecreeksamurais.com",
+            "destination": "A2 Hosting",
+            "date": "2024-12-14 19:51:31"
+        },
+        {
+            "domain_name": "www.consolatiinsurance.com",
+            "destination": "Pressable",
+            "date": "2024-12-14 19:46:17"
+        },
+        {
+            "domain_name": "arandcspecialists.com",
+            "destination": "Pressable",
+            "date": "2024-12-14 19:44:45"
+        },
+        {
+            "domain_name": "okiemensclinic.com",
+            "destination": "Namecheap",
+            "date": "2024-12-14 19:41:43"
+        },
+        {
+            "domain_name": "patriottalk920.com",
+            "destination": "GoDaddy",
+            "date": "2024-12-14 19:34:43"
+        },
+        {
+            "domain_name": "affinityregenmed.com",
+            "destination": "Namecheap",
+            "date": "2024-12-14 19:21:36"
+        },
         {
             "domain_name": "dasplumbinganddrains.com",
             "destination": "WordPress.com",
@@ -382,124 +497,9 @@
             "date": "2024-12-14 08:39:05"
         },
         {
-            "domain_name": "projectf.com.au",
-            "destination": "SiteGround",
-            "date": "2024-12-14 08:29:30"
-        },
-        {
             "domain_name": "home.bode.ca",
             "destination": "Pressable",
             "date": "2024-12-14 08:18:11"
-        },
-        {
-            "domain_name": "pohjois-lappi.fi",
-            "destination": "Kinsta",
-            "date": "2024-12-14 08:11:59"
-        },
-        {
-            "domain_name": "www.attytitleaspen.com",
-            "destination": "Pressable",
-            "date": "2024-12-14 08:06:17"
-        },
-        {
-            "domain_name": "lakeviewcolonialmotel.co.nz",
-            "destination": "Digital Ocean",
-            "date": "2024-12-14 05:32:23"
-        },
-        {
-            "domain_name": "rusticyardevents.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-14 04:56:02"
-        },
-        {
-            "domain_name": "beatingthespreadguru.com",
-            "destination": "GoDaddy",
-            "date": "2024-12-14 04:14:41"
-        },
-        {
-            "domain_name": "apptitudeplus.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-14 00:36:44"
-        },
-        {
-            "domain_name": "cannabismeansbusiness.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-14 00:31:43"
-        },
-        {
-            "domain_name": "greenhireaustralia.com.au",
-            "destination": "Digital Ocean",
-            "date": "2024-12-14 00:20:18"
-        },
-        {
-            "domain_name": "americanwinesociety.org",
-            "destination": "Digital Ocean",
-            "date": "2024-12-14 00:18:06"
-        },
-        {
-            "domain_name": "headwindyoga.ca",
-            "destination": "Pressable",
-            "date": "2024-12-14 00:08:33"
-        },
-        {
-            "domain_name": "fitgymwanaka.co.nz",
-            "destination": "Digital Ocean",
-            "date": "2024-12-14 00:01:08"
-        },
-        {
-            "domain_name": "peachtreehillsvet.com",
-            "destination": "Kinsta",
-            "date": "2024-12-13 23:55:18"
-        },
-        {
-            "domain_name": "fieldingtreecare.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-13 23:49:37"
-        },
-        {
-            "domain_name": "www.robichauxlaw.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-13 23:44:12"
-        },
-        {
-            "domain_name": "visionbiologique.ca",
-            "destination": "Pressable",
-            "date": "2024-12-13 23:13:30"
-        },
-        {
-            "domain_name": "thelawyersmarketer.com",
-            "destination": "Pressable",
-            "date": "2024-12-13 22:27:42"
-        },
-        {
-            "domain_name": "www.wrm.ca",
-            "destination": "Hostinger",
-            "date": "2024-12-13 22:21:45"
-        },
-        {
-            "domain_name": "www.wrightlawaspen.com",
-            "destination": "Pressable",
-            "date": "2024-12-13 22:21:45"
-        },
-        {
-            "domain_name": "turbopro.co.nz",
-            "destination": "Digital Ocean",
-            "date": "2024-12-13 22:13:46"
-        },
-        {
-            "domain_name": "eco-vue.com.au",
-            "destination": "Kinsta",
-            "date": "2024-12-13 22:09:36"
-        },
-        {
-            "domain_name": "cryocure.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-13 22:05:24"
-        },
-        {
-            "domain_name": "crubsy.com",
-            "destination": "SiteGround",
-            "date": "2024-12-13 22:05:24"
         }
     ],
     "dailyMovedStat": {
@@ -589,26 +589,26 @@
         "2024-12-13": "28452"
     },
     "topDestinationHosts": {
-        "Pressable": 6473,
-        "Bluehost": 3517,
-        "Kinsta": 1817,
-        "Digital Ocean": 1787,
-        "SiteGround": 1611,
-        "Hostinger": 905,
-        "GoDaddy": 436,
+        "Pressable": 6476,
+        "Bluehost": 3518,
+        "Kinsta": 1819,
+        "Digital Ocean": 1789,
+        "SiteGround": 1612,
+        "Hostinger": 906,
+        "GoDaddy": 437,
         "BigScoots": 268,
-        "Elementor Hosting": 193,
-        "Liquid Web": 184,
+        "Elementor Hosting": 195,
+        "Liquid Web": 187,
         "Wordify": 140,
         "WordPress.com": 123,
         "InMotion Hosting": 110,
         "OVH": 102,
         "GridPane": 102,
-        "A2 Hosting": 79,
+        "A2 Hosting": 80,
+        "Namecheap": 74,
         "IONOS": 71,
-        "Namecheap": 71,
         "Hetzner Online": 69,
-        "DreamHost": 59
+        "DreamHost": 60
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
