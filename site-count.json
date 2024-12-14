@@ -1,6 +1,21 @@
 {
-    "siteCount": 28518,
+    "siteCount": 28529,
     "recentlyMoved": [
+        {
+            "domain_name": "alliacc.com",
+            "destination": "SiteGround",
+            "date": "2024-12-14 12:20:35"
+        },
+        {
+            "domain_name": "www.academyappraisals.com",
+            "destination": "Pressable",
+            "date": "2024-12-14 11:49:19"
+        },
+        {
+            "domain_name": "360eatguide.com",
+            "destination": "Kinsta",
+            "date": "2024-12-14 11:38:42"
+        },
         {
             "domain_name": "njcaweb.org",
             "destination": "Digital Ocean",
@@ -317,16 +332,6 @@
             "date": "2024-12-13 20:22:26"
         },
         {
-            "domain_name": "capasrr.acentra.com",
-            "destination": "Kinsta",
-            "date": "2024-12-13 20:17:32"
-        },
-        {
-            "domain_name": "calmhsa.acentra.com",
-            "destination": "Kinsta",
-            "date": "2024-12-13 20:17:32"
-        },
-        {
             "domain_name": "precisionhomeinspectionsky.com",
             "destination": "Pressable",
             "date": "2024-12-13 20:12:49"
@@ -380,11 +385,6 @@
             "domain_name": "me.acentra.com",
             "destination": "Kinsta",
             "date": "2024-12-13 20:10:57"
-        },
-        {
-            "domain_name": "ar.acentra.com",
-            "destination": "Kinsta",
-            "date": "2024-12-13 20:10:55"
         },
         {
             "domain_name": "arlingtonadvisory.com.au",
@@ -589,11 +589,11 @@
         "2024-12-13": "28452"
     },
     "topDestinationHosts": {
-        "Pressable": 6459,
+        "Pressable": 6460,
         "Bluehost": 3516,
-        "Kinsta": 1806,
+        "Kinsta": 1807,
         "Digital Ocean": 1777,
-        "SiteGround": 1599,
+        "SiteGround": 1600,
         "Hostinger": 902,
         "GoDaddy": 434,
         "BigScoots": 265,
