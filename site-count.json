@@ -1,6 +1,11 @@
 {
-    "siteCount": 28493,
+    "siteCount": 28496,
     "recentlyMoved": [
+        {
+            "domain_name": "jackaxesinc.com",
+            "destination": "SiteGround",
+            "date": "2024-12-14 09:05:05"
+        },
         {
             "domain_name": "www.cameronandgreigvets.co.uk",
             "destination": "Kinsta",
@@ -10,6 +15,11 @@
             "domain_name": "projectf.com.au",
             "destination": "SiteGround",
             "date": "2024-12-14 08:29:30"
+        },
+        {
+            "domain_name": "home.bode.ca",
+            "destination": "Pressable",
+            "date": "2024-12-14 08:18:11"
         },
         {
             "domain_name": "pohjois-lappi.fi",
@@ -490,16 +500,6 @@
             "domain_name": "nebulastl.com",
             "destination": "Kinsta",
             "date": "2024-12-13 18:46:12"
-        },
-        {
-            "domain_name": "uniquetravelevents.com",
-            "destination": "SiteGround",
-            "date": "2024-12-13 18:21:48"
-        },
-        {
-            "domain_name": "vailmountainrescue.org",
-            "destination": "Pressable",
-            "date": "2024-12-13 18:16:12"
         }
     ],
     "dailyMovedStat": {
@@ -589,11 +589,11 @@
         "2024-12-13": "28452"
     },
     "topDestinationHosts": {
-        "Pressable": 6454,
+        "Pressable": 6455,
         "Bluehost": 3516,
-        "Kinsta": 1804,
+        "Kinsta": 1805,
         "Digital Ocean": 1775,
-        "SiteGround": 1595,
+        "SiteGround": 1597,
         "Hostinger": 901,
         "GoDaddy": 434,
         "BigScoots": 265,
