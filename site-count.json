@@ -1,6 +1,71 @@
 {
-    "siteCount": 28570,
+    "siteCount": 28596,
     "recentlyMoved": [
+        {
+            "domain_name": "aquadeck.com",
+            "destination": "Digital Ocean",
+            "date": "2024-12-14 16:33:01"
+        },
+        {
+            "domain_name": "www.magnetizeagency.com",
+            "destination": "Kinsta",
+            "date": "2024-12-14 16:28:28"
+        },
+        {
+            "domain_name": "www.bdrushlaw.com",
+            "destination": "Hostinger",
+            "date": "2024-12-14 16:22:06"
+        },
+        {
+            "domain_name": "fromagegarage.com",
+            "destination": "GoDaddy",
+            "date": "2024-12-14 16:19:34"
+        },
+        {
+            "domain_name": "osuconvo.com",
+            "destination": "Pressable",
+            "date": "2024-12-14 16:13:04"
+        },
+        {
+            "domain_name": "webinar.focusedwealthadvisors.com",
+            "destination": "Pressable",
+            "date": "2024-12-14 16:10:50"
+        },
+        {
+            "domain_name": "physicaltherapy4kids.com",
+            "destination": "Digital Ocean",
+            "date": "2024-12-14 16:03:41"
+        },
+        {
+            "domain_name": "grandcasebeachclub.com",
+            "destination": "Digital Ocean",
+            "date": "2024-12-14 15:57:14"
+        },
+        {
+            "domain_name": "paradiselanesfec.com",
+            "destination": "Liquid Web",
+            "date": "2024-12-14 15:55:18"
+        },
+        {
+            "domain_name": "aasi.co.nz",
+            "destination": "Digital Ocean",
+            "date": "2024-12-14 15:54:26"
+        },
+        {
+            "domain_name": "plymouthrocktv.com",
+            "destination": "Hostinger",
+            "date": "2024-12-14 15:41:24"
+        },
+        {
+            "domain_name": "petersonsteel.com",
+            "destination": "Kinsta",
+            "date": "2024-12-14 15:33:48"
+        },
+        {
+            "domain_name": "advantagedc.com",
+            "destination": "Pressable",
+            "date": "2024-12-14 15:31:38"
+        },
         {
             "domain_name": "tinyduckparenting.com",
             "destination": "GoDaddy",
@@ -422,29 +487,9 @@
             "date": "2024-12-13 20:56:18"
         },
         {
-            "domain_name": "heaton.com",
-            "destination": "Hostinger",
-            "date": "2024-12-13 20:49:42"
-        },
-        {
             "domain_name": "junk-ify.com",
             "destination": "Hostinger",
             "date": "2024-12-13 20:47:49"
-        },
-        {
-            "domain_name": "atlantainsurance.com",
-            "destination": "SiteGround",
-            "date": "2024-12-13 20:45:17"
-        },
-        {
-            "domain_name": "bladeshowwest.com",
-            "destination": "Kinsta",
-            "date": "2024-12-13 20:44:55"
-        },
-        {
-            "domain_name": "bladeshow.com",
-            "destination": "Kinsta",
-            "date": "2024-12-13 20:44:55"
         },
         {
             "domain_name": "bootheelanimalclinic.com",
@@ -455,51 +500,6 @@
             "domain_name": "bonnie-photo.com",
             "destination": "Digital Ocean",
             "date": "2024-12-13 20:30:50"
-        },
-        {
-            "domain_name": "wvaso.acentra.com",
-            "destination": "Kinsta",
-            "date": "2024-12-13 20:22:26"
-        },
-        {
-            "domain_name": "precisionhomeinspectionsky.com",
-            "destination": "Pressable",
-            "date": "2024-12-13 20:12:49"
-        },
-        {
-            "domain_name": "joingreatlife.com",
-            "destination": "SiteGround",
-            "date": "2024-12-13 20:05:46"
-        },
-        {
-            "domain_name": "www.snaptitehose.com",
-            "destination": "GoDaddy",
-            "date": "2024-12-13 20:05:46"
-        },
-        {
-            "domain_name": "www.gladdsecurity.com",
-            "destination": "Liquid Web",
-            "date": "2024-12-13 20:05:46"
-        },
-        {
-            "domain_name": "wordpress-1379531-5106432.cloudwaysapps.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-13 20:05:46"
-        },
-        {
-            "domain_name": "www.4l6.ca",
-            "destination": "DreamHost",
-            "date": "2024-12-13 20:05:46"
-        },
-        {
-            "domain_name": "www.bevelworkforce.com",
-            "destination": "SiteGround",
-            "date": "2024-12-13 20:01:56"
-        },
-        {
-            "domain_name": "hazelphillipstravel.com",
-            "destination": "SiteGround",
-            "date": "2024-12-13 20:00:41"
         }
     ],
     "dailyMovedStat": {
@@ -589,16 +589,16 @@
         "2024-12-13": "28452"
     },
     "topDestinationHosts": {
-        "Pressable": 6466,
+        "Pressable": 6469,
         "Bluehost": 3516,
-        "Kinsta": 1813,
-        "Digital Ocean": 1781,
+        "Kinsta": 1815,
+        "Digital Ocean": 1785,
         "SiteGround": 1606,
-        "Hostinger": 902,
-        "GoDaddy": 435,
+        "Hostinger": 904,
+        "GoDaddy": 436,
         "BigScoots": 268,
         "Elementor Hosting": 193,
-        "Liquid Web": 183,
+        "Liquid Web": 184,
         "Wordify": 140,
         "WordPress.com": 122,
         "InMotion Hosting": 110,
