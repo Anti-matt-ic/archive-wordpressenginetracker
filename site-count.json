@@ -1,10 +1,85 @@
 {
-    "siteCount": 28529,
+    "siteCount": 28550,
     "recentlyMoved": [
+        {
+            "domain_name": "www.johnsrx.com",
+            "destination": "SiteGround",
+            "date": "2024-12-14 13:26:13"
+        },
+        {
+            "domain_name": "cega.berkeley.edu",
+            "destination": "Digital Ocean",
+            "date": "2024-12-14 13:20:11"
+        },
+        {
+            "domain_name": "brianpattenassociates.com",
+            "destination": "OVH",
+            "date": "2024-12-14 13:12:57"
+        },
+        {
+            "domain_name": "kenneymachinery.com",
+            "destination": "Kinsta",
+            "date": "2024-12-14 13:11:23"
+        },
+        {
+            "domain_name": "www.launchpointconsulting.com",
+            "destination": "BigScoots",
+            "date": "2024-12-14 13:10:02"
+        },
+        {
+            "domain_name": "breyelectric.com",
+            "destination": "Digital Ocean",
+            "date": "2024-12-14 13:06:40"
+        },
+        {
+            "domain_name": "journeyfromsinai.com",
+            "destination": "Kinsta",
+            "date": "2024-12-14 13:03:54"
+        },
+        {
+            "domain_name": "jewishparentsforum.org",
+            "destination": "Kinsta",
+            "date": "2024-12-14 12:58:56"
+        },
+        {
+            "domain_name": "www.cedarglenliving.com",
+            "destination": "Pressable",
+            "date": "2024-12-14 12:47:41"
+        },
+        {
+            "domain_name": "redstoneforum.org",
+            "destination": "Kinsta",
+            "date": "2024-12-14 12:40:16"
+        },
+        {
+            "domain_name": "rcb-bonds.com",
+            "destination": "SiteGround",
+            "date": "2024-12-14 12:38:56"
+        },
+        {
+            "domain_name": "break-rank.com",
+            "destination": "Pressable",
+            "date": "2024-12-14 12:25:28"
+        },
+        {
+            "domain_name": "radiumarchitecture.com",
+            "destination": "Digital Ocean",
+            "date": "2024-12-14 12:21:08"
+        },
         {
             "domain_name": "alliacc.com",
             "destination": "SiteGround",
             "date": "2024-12-14 12:20:35"
+        },
+        {
+            "domain_name": "renuvawellness.com",
+            "destination": "SiteGround",
+            "date": "2024-12-14 12:16:08"
+        },
+        {
+            "domain_name": "recyclocraftz.org",
+            "destination": "Pressable",
+            "date": "2024-12-14 12:13:45"
         },
         {
             "domain_name": "www.academyappraisals.com",
@@ -312,21 +387,6 @@
             "date": "2024-12-13 20:30:50"
         },
         {
-            "domain_name": "inmedicaidffs.acentra.com",
-            "destination": "Kinsta",
-            "date": "2024-12-13 20:25:25"
-        },
-        {
-            "domain_name": "il.acentra.com",
-            "destination": "Kinsta",
-            "date": "2024-12-13 20:25:25"
-        },
-        {
-            "domain_name": "platinumhh.com",
-            "destination": "GoDaddy",
-            "date": "2024-12-13 20:25:15"
-        },
-        {
             "domain_name": "wvaso.acentra.com",
             "destination": "Kinsta",
             "date": "2024-12-13 20:22:26"
@@ -365,26 +425,6 @@
             "domain_name": "mysupport.acentra.com",
             "destination": "Kinsta",
             "date": "2024-12-13 20:11:30"
-        },
-        {
-            "domain_name": "mississippishp.acentra.com",
-            "destination": "Kinsta",
-            "date": "2024-12-13 20:11:30"
-        },
-        {
-            "domain_name": "mhcp.acentra.com",
-            "destination": "Kinsta",
-            "date": "2024-12-13 20:10:57"
-        },
-        {
-            "domain_name": "www.mesotheliomaclaims.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-13 20:10:57"
-        },
-        {
-            "domain_name": "me.acentra.com",
-            "destination": "Kinsta",
-            "date": "2024-12-13 20:10:57"
         },
         {
             "domain_name": "arlingtonadvisory.com.au",
@@ -432,16 +472,6 @@
             "date": "2024-12-13 20:05:41"
         },
         {
-            "domain_name": "hcqu.acentra.com",
-            "destination": "Kinsta",
-            "date": "2024-12-13 20:04:58"
-        },
-        {
-            "domain_name": "hchcp.acentra.com",
-            "destination": "Kinsta",
-            "date": "2024-12-13 20:04:58"
-        },
-        {
             "domain_name": "www.bevelworkforce.com",
             "destination": "SiteGround",
             "date": "2024-12-13 20:01:56"
@@ -450,11 +480,6 @@
             "domain_name": "hazelphillipstravel.com",
             "destination": "SiteGround",
             "date": "2024-12-13 20:00:41"
-        },
-        {
-            "domain_name": "eap.acentra.com",
-            "destination": "Kinsta",
-            "date": "2024-12-13 19:55:55"
         },
         {
             "domain_name": "ohpcc.acentra.com",
@@ -475,31 +500,6 @@
             "domain_name": "nmmip.acentra.com",
             "destination": "Kinsta",
             "date": "2024-12-13 19:51:44"
-        },
-        {
-            "domain_name": "flpasrrdd.acentra.com",
-            "destination": "Kinsta",
-            "date": "2024-12-13 19:45:59"
-        },
-        {
-            "domain_name": "flpasrr.acentra.com",
-            "destination": "Kinsta",
-            "date": "2024-12-13 19:45:59"
-        },
-        {
-            "domain_name": "floridapasrr.acentra.com",
-            "destination": "Kinsta",
-            "date": "2024-12-13 19:45:59"
-        },
-        {
-            "domain_name": "floridaicf-csr.acentra.com",
-            "destination": "Kinsta",
-            "date": "2024-12-13 19:45:59"
-        },
-        {
-            "domain_name": "fl.acentra.com",
-            "destination": "Kinsta",
-            "date": "2024-12-13 19:45:59"
         }
     ],
     "dailyMovedStat": {
@@ -589,21 +589,21 @@
         "2024-12-13": "28452"
     },
     "topDestinationHosts": {
-        "Pressable": 6460,
+        "Pressable": 6463,
         "Bluehost": 3516,
-        "Kinsta": 1807,
-        "Digital Ocean": 1777,
-        "SiteGround": 1600,
+        "Kinsta": 1810,
+        "Digital Ocean": 1780,
+        "SiteGround": 1603,
         "Hostinger": 902,
         "GoDaddy": 434,
-        "BigScoots": 265,
+        "BigScoots": 266,
         "Elementor Hosting": 193,
         "Liquid Web": 183,
         "Wordify": 139,
         "WordPress.com": 122,
         "InMotion Hosting": 110,
         "GridPane": 102,
-        "OVH": 100,
+        "OVH": 101,
         "A2 Hosting": 79,
         "IONOS": 71,
         "Namecheap": 71,
