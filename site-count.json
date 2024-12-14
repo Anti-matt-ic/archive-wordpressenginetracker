@@ -1,6 +1,11 @@
 {
-    "siteCount": 28565,
+    "siteCount": 28570,
     "recentlyMoved": [
+        {
+            "domain_name": "tinyduckparenting.com",
+            "destination": "GoDaddy",
+            "date": "2024-12-14 14:44:05"
+        },
         {
             "domain_name": "xpolice.ca",
             "destination": "Pressable",
@@ -10,6 +15,16 @@
             "domain_name": "marcofoodsystem.org",
             "destination": "BigScoots",
             "date": "2024-12-14 14:19:48"
+        },
+        {
+            "domain_name": "emetclassicalacademy.org",
+            "destination": "Kinsta",
+            "date": "2024-12-14 14:19:30"
+        },
+        {
+            "domain_name": "upperperkfoundation.org",
+            "destination": "Wordify",
+            "date": "2024-12-14 14:11:40"
         },
         {
             "domain_name": "diypoolclean.com",
@@ -452,11 +467,6 @@
             "date": "2024-12-13 20:12:49"
         },
         {
-            "domain_name": "arlingtonadvisory.com.au",
-            "destination": "Digital Ocean",
-            "date": "2024-12-13 20:07:15"
-        },
-        {
             "domain_name": "joingreatlife.com",
             "destination": "SiteGround",
             "date": "2024-12-13 20:05:46"
@@ -480,16 +490,6 @@
             "domain_name": "www.4l6.ca",
             "destination": "DreamHost",
             "date": "2024-12-13 20:05:46"
-        },
-        {
-            "domain_name": "scdhhs.acentra.com",
-            "destination": "Kinsta",
-            "date": "2024-12-13 20:05:41"
-        },
-        {
-            "domain_name": "santaclara.acentra.com",
-            "destination": "Kinsta",
-            "date": "2024-12-13 20:05:41"
         },
         {
             "domain_name": "www.bevelworkforce.com",
@@ -589,17 +589,17 @@
         "2024-12-13": "28452"
     },
     "topDestinationHosts": {
-        "Pressable": 6465,
+        "Pressable": 6466,
         "Bluehost": 3516,
-        "Kinsta": 1812,
+        "Kinsta": 1813,
         "Digital Ocean": 1781,
         "SiteGround": 1606,
         "Hostinger": 902,
-        "GoDaddy": 434,
+        "GoDaddy": 435,
         "BigScoots": 268,
         "Elementor Hosting": 193,
         "Liquid Web": 183,
-        "Wordify": 139,
+        "Wordify": 140,
         "WordPress.com": 122,
         "InMotion Hosting": 110,
         "OVH": 102,
