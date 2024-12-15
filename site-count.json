@@ -1,6 +1,11 @@
 {
-    "siteCount": 28795,
+    "siteCount": 28801,
     "recentlyMoved": [
+        {
+            "domain_name": "revolution365.net",
+            "destination": "SiteGround",
+            "date": "2024-12-15 12:18:45"
+        },
         {
             "domain_name": "onlinefreighttraining.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "kenneymachinery.com",
             "destination": "Kinsta",
             "date": "2024-12-14 13:11:23"
-        },
-        {
-            "domain_name": "www.launchpointconsulting.com",
-            "destination": "BigScoots",
-            "date": "2024-12-14 13:10:02"
         }
     ],
     "dailyMovedStat": {
@@ -594,7 +594,7 @@
         "Bluehost": 3518,
         "Kinsta": 1823,
         "Digital Ocean": 1792,
-        "SiteGround": 1617,
+        "SiteGround": 1618,
         "Hostinger": 914,
         "GoDaddy": 437,
         "BigScoots": 269,
