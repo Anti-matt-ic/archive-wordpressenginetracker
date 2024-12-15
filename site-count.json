@@ -1,6 +1,11 @@
 {
-    "siteCount": 28826,
+    "siteCount": 28827,
     "recentlyMoved": [
+        {
+            "domain_name": "metamaterial.com",
+            "destination": "Namecheap",
+            "date": "2024-12-15 18:30:02"
+        },
         {
             "domain_name": "lisamariephotographie.com",
             "destination": "Bluehost",
@@ -492,11 +497,6 @@
             "date": "2024-12-14 15:31:38"
         },
         {
-            "domain_name": "emetclassicalacademy.org",
-            "destination": "Kinsta",
-            "date": "2024-12-14 14:19:30"
-        },
-        {
             "domain_name": "upperperkfoundation.org",
             "destination": "Wordify",
             "date": "2024-12-14 14:11:40"
@@ -606,7 +606,7 @@
         "GridPane": 106,
         "OVH": 102,
         "A2 Hosting": 80,
-        "Namecheap": 74,
+        "Namecheap": 75,
         "IONOS": 71,
         "Hetzner Online": 70,
         "DreamHost": 60
