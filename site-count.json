@@ -1,6 +1,21 @@
 {
-    "siteCount": 28854,
+    "siteCount": 28862,
     "recentlyMoved": [
+        {
+            "domain_name": "riversedgebuilders.com",
+            "destination": "Pressable",
+            "date": "2024-12-15 20:59:36"
+        },
+        {
+            "domain_name": "www.galvestoncleaners.com",
+            "destination": "DreamHost",
+            "date": "2024-12-15 20:58:06"
+        },
+        {
+            "domain_name": "ravigoyalarizona.net",
+            "destination": "Hostinger",
+            "date": "2024-12-15 20:32:41"
+        },
         {
             "domain_name": "y4a.499.mytemp.website",
             "destination": "GoDaddy",
@@ -462,16 +477,6 @@
             "date": "2024-12-14 16:22:06"
         },
         {
-            "domain_name": "fromagegarage.com",
-            "destination": "GoDaddy",
-            "date": "2024-12-14 16:19:34"
-        },
-        {
-            "domain_name": "osuconvo.com",
-            "destination": "Pressable",
-            "date": "2024-12-14 16:13:04"
-        },
-        {
             "domain_name": "physicaltherapy4kids.com",
             "destination": "Digital Ocean",
             "date": "2024-12-14 16:03:41"
@@ -495,11 +500,6 @@
             "domain_name": "petersonsteel.com",
             "destination": "Kinsta",
             "date": "2024-12-14 15:33:48"
-        },
-        {
-            "domain_name": "advantagedc.com",
-            "destination": "Pressable",
-            "date": "2024-12-14 15:31:38"
         }
     ],
     "dailyMovedStat": {
@@ -590,12 +590,12 @@
         "2024-12-14": "28737"
     },
     "topDestinationHosts": {
-        "Pressable": 6485,
+        "Pressable": 6486,
         "Bluehost": 3519,
         "Kinsta": 1824,
         "Digital Ocean": 1792,
         "SiteGround": 1620,
-        "Hostinger": 919,
+        "Hostinger": 920,
         "GoDaddy": 438,
         "BigScoots": 269,
         "Elementor Hosting": 195,
@@ -609,7 +609,7 @@
         "Namecheap": 75,
         "IONOS": 71,
         "Hetzner Online": 70,
-        "DreamHost": 60
+        "DreamHost": 61
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
