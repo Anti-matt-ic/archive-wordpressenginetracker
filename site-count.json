@@ -1,6 +1,26 @@
 {
-    "siteCount": 28814,
+    "siteCount": 28820,
     "recentlyMoved": [
+        {
+            "domain_name": "prismatic.media",
+            "destination": "Hostinger",
+            "date": "2024-12-15 16:27:25"
+        },
+        {
+            "domain_name": "aimgroup.ca",
+            "destination": "Pressable",
+            "date": "2024-12-15 16:03:00"
+        },
+        {
+            "domain_name": "wedesignforgood.net",
+            "destination": "SiteGround",
+            "date": "2024-12-15 15:51:53"
+        },
+        {
+            "domain_name": "ohiomeansjobs-ottawacounty.com",
+            "destination": "InMotion Hosting",
+            "date": "2024-12-15 15:19:24"
+        },
         {
             "domain_name": "epictool.ca",
             "destination": "Pressable",
@@ -480,26 +500,6 @@
             "domain_name": "diypoolclean.com",
             "destination": "BigScoots",
             "date": "2024-12-14 14:08:11"
-        },
-        {
-            "domain_name": "crossfitoysterpoint.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-14 13:47:35"
-        },
-        {
-            "domain_name": "www.rockhavendistillery.com",
-            "destination": "Pressable",
-            "date": "2024-12-14 13:38:47"
-        },
-        {
-            "domain_name": "successionready.ca",
-            "destination": "SiteGround",
-            "date": "2024-12-14 13:32:31"
-        },
-        {
-            "domain_name": "constructique.com",
-            "destination": "Pressable",
-            "date": "2024-12-14 13:13:30"
         }
     ],
     "dailyMovedStat": {
@@ -590,19 +590,19 @@
         "2024-12-14": "28737"
     },
     "topDestinationHosts": {
-        "Pressable": 6482,
+        "Pressable": 6483,
         "Bluehost": 3518,
         "Kinsta": 1823,
         "Digital Ocean": 1792,
-        "SiteGround": 1618,
-        "Hostinger": 918,
+        "SiteGround": 1619,
+        "Hostinger": 919,
         "GoDaddy": 437,
         "BigScoots": 269,
         "Elementor Hosting": 195,
         "Liquid Web": 189,
         "Wordify": 140,
         "WordPress.com": 123,
-        "InMotion Hosting": 110,
+        "InMotion Hosting": 111,
         "GridPane": 106,
         "OVH": 102,
         "A2 Hosting": 80,
