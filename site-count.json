@@ -1,6 +1,11 @@
 {
-    "siteCount": 28773,
+    "siteCount": 28777,
     "recentlyMoved": [
+        {
+            "domain_name": "thedrapershotel.com",
+            "destination": "SiteGround",
+            "date": "2024-12-15 10:23:31"
+        },
         {
             "domain_name": "bonaterrasalon.com",
             "destination": "Liquid Web",
@@ -495,11 +500,6 @@
             "domain_name": "break-rank.com",
             "destination": "Pressable",
             "date": "2024-12-14 12:25:28"
-        },
-        {
-            "domain_name": "renuvawellness.com",
-            "destination": "SiteGround",
-            "date": "2024-12-14 12:16:08"
         }
     ],
     "dailyMovedStat": {
@@ -594,7 +594,7 @@
         "Bluehost": 3518,
         "Kinsta": 1823,
         "Digital Ocean": 1792,
-        "SiteGround": 1615,
+        "SiteGround": 1616,
         "Hostinger": 912,
         "GoDaddy": 437,
         "BigScoots": 269,
