@@ -1,6 +1,16 @@
 {
-    "siteCount": 28746,
+    "siteCount": 28751,
     "recentlyMoved": [
+        {
+            "domain_name": "lewismanorlabradoodles.com",
+            "destination": "SiteGround",
+            "date": "2024-12-15 01:51:08"
+        },
+        {
+            "domain_name": "www.mountainskillsacademy.com",
+            "destination": "Hostinger",
+            "date": "2024-12-15 01:09:25"
+        },
         {
             "domain_name": "blackatheoffice.com",
             "destination": "Hostinger",
@@ -487,19 +497,9 @@
             "date": "2024-12-14 11:09:26"
         },
         {
-            "domain_name": "thinkmovelearn.net",
-            "destination": "Pressable",
-            "date": "2024-12-14 10:43:39"
-        },
-        {
             "domain_name": "espirito.org.br",
             "destination": "Hostinger",
             "date": "2024-12-14 10:17:05"
-        },
-        {
-            "domain_name": "thorpechiropractic.com",
-            "destination": "SiteGround",
-            "date": "2024-12-14 09:56:25"
         }
     ],
     "dailyMovedStat": {
@@ -594,8 +594,8 @@
         "Bluehost": 3518,
         "Kinsta": 1822,
         "Digital Ocean": 1790,
-        "SiteGround": 1614,
-        "Hostinger": 908,
+        "SiteGround": 1615,
+        "Hostinger": 909,
         "GoDaddy": 437,
         "BigScoots": 269,
         "Elementor Hosting": 195,
