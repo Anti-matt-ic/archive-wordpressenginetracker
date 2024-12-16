@@ -1,6 +1,16 @@
 {
-    "siteCount": 28885,
+    "siteCount": 28893,
     "recentlyMoved": [
+        {
+            "domain_name": "sciencedivingnewzealand.co.nz",
+            "destination": "Digital Ocean",
+            "date": "2024-12-16 04:38:14"
+        },
+        {
+            "domain_name": "pulsepropertyservices.co.nz",
+            "destination": "Digital Ocean",
+            "date": "2024-12-16 04:24:48"
+        },
         {
             "domain_name": "metalthebrand.com",
             "destination": "Namecheap",
@@ -490,16 +500,6 @@
             "domain_name": "bostonoffices.com",
             "destination": "Hostinger",
             "date": "2024-12-14 16:44:47"
-        },
-        {
-            "domain_name": "healthy-balance.ca",
-            "destination": "SiteGround",
-            "date": "2024-12-14 16:29:22"
-        },
-        {
-            "domain_name": "www.bdrushlaw.com",
-            "destination": "Hostinger",
-            "date": "2024-12-14 16:22:06"
         }
     ],
     "dailyMovedStat": {
@@ -594,7 +594,7 @@
         "Pressable": 6487,
         "Bluehost": 3519,
         "Kinsta": 1824,
-        "Digital Ocean": 1792,
+        "Digital Ocean": 1794,
         "SiteGround": 1624,
         "Hostinger": 920,
         "GoDaddy": 438,
