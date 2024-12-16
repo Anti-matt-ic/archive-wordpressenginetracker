@@ -1,6 +1,16 @@
 {
-    "siteCount": 28893,
+    "siteCount": 28895,
     "recentlyMoved": [
+        {
+            "domain_name": "dagneylaw.com",
+            "destination": "Hostinger",
+            "date": "2024-12-16 05:38:18"
+        },
+        {
+            "domain_name": "solandserenity.com",
+            "destination": "SiteGround",
+            "date": "2024-12-16 05:10:34"
+        },
         {
             "domain_name": "sciencedivingnewzealand.co.nz",
             "destination": "Digital Ocean",
@@ -487,16 +497,6 @@
             "date": "2024-12-14 16:55:09"
         },
         {
-            "domain_name": "www.cincodentalcare.com",
-            "destination": "Kinsta",
-            "date": "2024-12-14 16:55:00"
-        },
-        {
-            "domain_name": "bladeshowtexas.com",
-            "destination": "Kinsta",
-            "date": "2024-12-14 16:50:15"
-        },
-        {
             "domain_name": "bostonoffices.com",
             "destination": "Hostinger",
             "date": "2024-12-14 16:44:47"
@@ -595,8 +595,8 @@
         "Bluehost": 3519,
         "Kinsta": 1824,
         "Digital Ocean": 1794,
-        "SiteGround": 1624,
-        "Hostinger": 920,
+        "SiteGround": 1625,
+        "Hostinger": 921,
         "GoDaddy": 438,
         "BigScoots": 270,
         "Elementor Hosting": 195,
