@@ -1,10 +1,15 @@
 {
-    "siteCount": 28871,
+    "siteCount": 28878,
     "recentlyMoved": [
         {
             "domain_name": "hannaharredondo.com",
             "destination": "SiteGround",
             "date": "2024-12-16 00:35:31"
+        },
+        {
+            "domain_name": "www.developgoodhabits.com",
+            "destination": "BigScoots",
+            "date": "2024-12-16 00:35:03"
         },
         {
             "domain_name": "www.apctechnologies.net",
@@ -482,11 +487,6 @@
             "date": "2024-12-14 16:29:22"
         },
         {
-            "domain_name": "www.magnetizeagency.com",
-            "destination": "Kinsta",
-            "date": "2024-12-14 16:28:28"
-        },
-        {
             "domain_name": "www.bdrushlaw.com",
             "destination": "Hostinger",
             "date": "2024-12-14 16:22:06"
@@ -595,10 +595,10 @@
         "Bluehost": 3519,
         "Kinsta": 1824,
         "Digital Ocean": 1792,
-        "SiteGround": 1622,
+        "SiteGround": 1623,
         "Hostinger": 920,
         "GoDaddy": 438,
-        "BigScoots": 269,
+        "BigScoots": 270,
         "Elementor Hosting": 195,
         "Liquid Web": 189,
         "Wordify": 140,
