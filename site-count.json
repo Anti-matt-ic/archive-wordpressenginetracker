@@ -1,6 +1,56 @@
 {
-    "siteCount": 28939,
+    "siteCount": 28982,
     "recentlyMoved": [
+        {
+            "domain_name": "mrc-law.ca",
+            "destination": "SiteGround",
+            "date": "2024-12-16 19:56:58"
+        },
+        {
+            "domain_name": "yolopebble.com",
+            "destination": "Digital Ocean",
+            "date": "2024-12-16 19:56:58"
+        },
+        {
+            "domain_name": "theroofco-waco.com",
+            "destination": "Hostinger",
+            "date": "2024-12-16 19:56:58"
+        },
+        {
+            "domain_name": "bluemountainvillage.ca",
+            "destination": "Digital Ocean",
+            "date": "2024-12-16 19:56:58"
+        },
+        {
+            "domain_name": "nfm.agency",
+            "destination": "OVH",
+            "date": "2024-12-16 19:56:58"
+        },
+        {
+            "domain_name": "www.auw.org",
+            "destination": "Pressable",
+            "date": "2024-12-16 19:56:58"
+        },
+        {
+            "domain_name": "sushiprivatechef.com",
+            "destination": "HostGator",
+            "date": "2024-12-16 19:56:58"
+        },
+        {
+            "domain_name": "www.islanderfoundation.org",
+            "destination": "Pressable",
+            "date": "2024-12-16 19:56:58"
+        },
+        {
+            "domain_name": "laserfreeconfocal.com",
+            "destination": "GoDaddy",
+            "date": "2024-12-16 19:56:58"
+        },
+        {
+            "domain_name": "aainspect.co.nz",
+            "destination": "Digital Ocean",
+            "date": "2024-12-16 19:44:14"
+        },
         {
             "domain_name": "topedgeadvisory.co.nz",
             "destination": "Digital Ocean",
@@ -407,16 +457,6 @@
             "date": "2024-12-14 20:38:37"
         },
         {
-            "domain_name": "www.sculptmdmedspa.com",
-            "destination": "Namecheap",
-            "date": "2024-12-14 20:37:33"
-        },
-        {
-            "domain_name": "www.sayenkodesign.com",
-            "destination": "Kinsta",
-            "date": "2024-12-14 20:37:33"
-        },
-        {
             "domain_name": "proparinc.com",
             "destination": "SiteGround",
             "date": "2024-12-14 20:24:13"
@@ -425,11 +465,6 @@
             "domain_name": "batteryassist.com",
             "destination": "Pressable",
             "date": "2024-12-14 20:18:07"
-        },
-        {
-            "domain_name": "www.unpromptu.com",
-            "destination": "Pressable",
-            "date": "2024-12-14 20:17:05"
         },
         {
             "domain_name": "www.gardant.com",
@@ -465,41 +500,6 @@
             "domain_name": "www.mekanismo.com",
             "destination": "DreamHost",
             "date": "2024-12-14 20:16:13"
-        },
-        {
-            "domain_name": "www.hovergirlproperties.com",
-            "destination": "Elementor Hosting",
-            "date": "2024-12-14 20:16:13"
-        },
-        {
-            "domain_name": "www.familydentalboynton.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-14 20:16:13"
-        },
-        {
-            "domain_name": "sfnrhokc.elementor.cloud",
-            "destination": "Elementor Hosting",
-            "date": "2024-12-14 20:16:13"
-        },
-        {
-            "domain_name": "goodygaragedoors.com",
-            "destination": "Kinsta",
-            "date": "2024-12-14 20:16:13"
-        },
-        {
-            "domain_name": "poolcoversinc.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-14 19:59:30"
-        },
-        {
-            "domain_name": "goosecreeksamurais.com",
-            "destination": "A2 Hosting",
-            "date": "2024-12-14 19:51:31"
-        },
-        {
-            "domain_name": "arandcspecialists.com",
-            "destination": "Pressable",
-            "date": "2024-12-14 19:44:45"
         }
     ],
     "dailyMovedStat": {
@@ -591,13 +591,13 @@
         "2024-12-15": "28865"
     },
     "topDestinationHosts": {
-        "Pressable": 6490,
+        "Pressable": 6492,
         "Bluehost": 3519,
         "Kinsta": 1825,
-        "Digital Ocean": 1796,
-        "SiteGround": 1627,
-        "Hostinger": 925,
-        "GoDaddy": 441,
+        "Digital Ocean": 1799,
+        "SiteGround": 1628,
+        "Hostinger": 926,
+        "GoDaddy": 442,
         "BigScoots": 270,
         "Elementor Hosting": 195,
         "Liquid Web": 189,
@@ -605,7 +605,7 @@
         "WordPress.com": 123,
         "InMotion Hosting": 112,
         "GridPane": 106,
-        "OVH": 103,
+        "OVH": 104,
         "A2 Hosting": 81,
         "Namecheap": 76,
         "IONOS": 71,
