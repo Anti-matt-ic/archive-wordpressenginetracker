@@ -1,6 +1,21 @@
 {
-    "siteCount": 28910,
+    "siteCount": 28913,
     "recentlyMoved": [
+        {
+            "domain_name": "scorezthebar.com",
+            "destination": "Hostinger",
+            "date": "2024-12-16 13:17:27"
+        },
+        {
+            "domain_name": "ilpoa.org",
+            "destination": "GoDaddy",
+            "date": "2024-12-16 13:11:41"
+        },
+        {
+            "domain_name": "carlajstetson.com",
+            "destination": "Pressable",
+            "date": "2024-12-16 12:51:16"
+        },
         {
             "domain_name": "nancymedoff.com",
             "destination": "SiteGround",
@@ -485,21 +500,6 @@
             "domain_name": "sweetroars.com",
             "destination": "Bluehost",
             "date": "2024-12-14 17:50:15"
-        },
-        {
-            "domain_name": "leesoftworks.com",
-            "destination": "Pressable",
-            "date": "2024-12-14 17:37:53"
-        },
-        {
-            "domain_name": "www.omegaindl.com",
-            "destination": "SiteGround",
-            "date": "2024-12-14 17:27:01"
-        },
-        {
-            "domain_name": "spottedfoxdigital.com",
-            "destination": "Pressable",
-            "date": "2024-12-14 17:12:15"
         }
     ],
     "dailyMovedStat": {
@@ -591,13 +591,13 @@
         "2024-12-15": "28865"
     },
     "topDestinationHosts": {
-        "Pressable": 6487,
+        "Pressable": 6488,
         "Bluehost": 3519,
         "Kinsta": 1824,
         "Digital Ocean": 1794,
         "SiteGround": 1626,
-        "Hostinger": 924,
-        "GoDaddy": 438,
+        "Hostinger": 925,
+        "GoDaddy": 439,
         "BigScoots": 270,
         "Elementor Hosting": 195,
         "Liquid Web": 189,
