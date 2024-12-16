@@ -1,6 +1,16 @@
 {
-    "siteCount": 28901,
+    "siteCount": 28905,
     "recentlyMoved": [
+        {
+            "domain_name": "rusuu.co.uk",
+            "destination": "Hostinger",
+            "date": "2024-12-16 09:20:06"
+        },
+        {
+            "domain_name": "hokansonwellness.com",
+            "destination": "Hostinger",
+            "date": "2024-12-16 09:00:56"
+        },
         {
             "domain_name": "nationalstair.com",
             "destination": "InMotion Hosting",
@@ -490,16 +500,6 @@
             "domain_name": "buckleyfp.com",
             "destination": "Pressable",
             "date": "2024-12-14 17:04:43"
-        },
-        {
-            "domain_name": "boardwalkzeppoles.com",
-            "destination": "SiteGround",
-            "date": "2024-12-14 17:00:08"
-        },
-        {
-            "domain_name": "bostonoffices.com",
-            "destination": "Hostinger",
-            "date": "2024-12-14 16:44:47"
         }
     ],
     "dailyMovedStat": {
@@ -596,7 +596,7 @@
         "Kinsta": 1824,
         "Digital Ocean": 1794,
         "SiteGround": 1625,
-        "Hostinger": 921,
+        "Hostinger": 923,
         "GoDaddy": 438,
         "BigScoots": 270,
         "Elementor Hosting": 195,
