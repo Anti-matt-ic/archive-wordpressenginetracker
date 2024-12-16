@@ -1,6 +1,11 @@
 {
-    "siteCount": 28881,
+    "siteCount": 28884,
     "recentlyMoved": [
+        {
+            "domain_name": "metalthebrand.com",
+            "destination": "Namecheap",
+            "date": "2024-12-16 01:59:17"
+        },
         {
             "domain_name": "cogo.au",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "www.bdrushlaw.com",
             "destination": "Hostinger",
             "date": "2024-12-14 16:22:06"
-        },
-        {
-            "domain_name": "grandcasebeachclub.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-14 15:57:14"
         }
     ],
     "dailyMovedStat": {
@@ -607,7 +607,7 @@
         "GridPane": 106,
         "OVH": 103,
         "A2 Hosting": 80,
-        "Namecheap": 75,
+        "Namecheap": 76,
         "IONOS": 71,
         "Hetzner Online": 70,
         "DreamHost": 61
