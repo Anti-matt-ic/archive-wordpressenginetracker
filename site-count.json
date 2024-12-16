@@ -1,10 +1,50 @@
 {
-    "siteCount": 28988,
+    "siteCount": 28996,
     "recentlyMoved": [
+        {
+            "domain_name": "www.ultimatefamilyhaircare.net",
+            "destination": "SiteGround",
+            "date": "2024-12-16 22:32:57"
+        },
+        {
+            "domain_name": "dakodaandme.co.nz",
+            "destination": "Digital Ocean",
+            "date": "2024-12-16 22:28:15"
+        },
+        {
+            "domain_name": "mentorplasticsurgery.com",
+            "destination": "Digital Ocean",
+            "date": "2024-12-16 22:24:35"
+        },
+        {
+            "domain_name": "www.trailautobodyandmarine.com",
+            "destination": "SiteGround",
+            "date": "2024-12-16 22:19:57"
+        },
+        {
+            "domain_name": "www.schenksfamilybakery.com",
+            "destination": "WordPress.com",
+            "date": "2024-12-16 21:45:30"
+        },
         {
             "domain_name": "cctechcouncil.org",
             "destination": "SiteGround",
             "date": "2024-12-16 21:24:41"
+        },
+        {
+            "domain_name": "larrydayillustration.com",
+            "destination": "SiteGround",
+            "date": "2024-12-16 21:09:02"
+        },
+        {
+            "domain_name": "larrydayfineart.com",
+            "destination": "SiteGround",
+            "date": "2024-12-16 21:09:02"
+        },
+        {
+            "domain_name": "koogerandco.co.nz",
+            "destination": "Digital Ocean",
+            "date": "2024-12-16 21:00:16"
         },
         {
             "domain_name": "www.gillardfamilylawyers.com.au",
@@ -460,46 +500,6 @@
             "domain_name": "capespace.com",
             "destination": "Hostinger",
             "date": "2024-12-14 20:55:16"
-        },
-        {
-            "domain_name": "belitespacovers.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-14 20:50:00"
-        },
-        {
-            "domain_name": "au.southerncomfort.com",
-            "destination": "Kinsta",
-            "date": "2024-12-14 20:38:37"
-        },
-        {
-            "domain_name": "proparinc.com",
-            "destination": "SiteGround",
-            "date": "2024-12-14 20:24:13"
-        },
-        {
-            "domain_name": "batteryassist.com",
-            "destination": "Pressable",
-            "date": "2024-12-14 20:18:07"
-        },
-        {
-            "domain_name": "www.gardant.com",
-            "destination": "Liquid Web",
-            "date": "2024-12-14 20:16:13"
-        },
-        {
-            "domain_name": "ww99.spear-tactical.com",
-            "destination": "Liquid Web",
-            "date": "2024-12-14 20:16:13"
-        },
-        {
-            "domain_name": "senoktea.cyberstudio.biz",
-            "destination": "Hostinger",
-            "date": "2024-12-14 20:16:13"
-        },
-        {
-            "domain_name": "www.rapidplumbingmelbourne.com.au",
-            "destination": "SiteGround",
-            "date": "2024-12-14 20:16:13"
         }
     ],
     "dailyMovedStat": {
@@ -594,15 +594,15 @@
         "Pressable": 6492,
         "Bluehost": 3519,
         "Kinsta": 1825,
-        "Digital Ocean": 1799,
-        "SiteGround": 1630,
+        "Digital Ocean": 1801,
+        "SiteGround": 1635,
         "Hostinger": 926,
         "GoDaddy": 442,
         "BigScoots": 270,
         "Elementor Hosting": 195,
         "Liquid Web": 189,
         "Wordify": 140,
-        "WordPress.com": 123,
+        "WordPress.com": 124,
         "InMotion Hosting": 112,
         "GridPane": 106,
         "OVH": 104,
