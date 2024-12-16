@@ -1,6 +1,11 @@
 {
-    "siteCount": 28913,
+    "siteCount": 28918,
     "recentlyMoved": [
+        {
+            "domain_name": "thedentalhealthpractice.ca",
+            "destination": "GoDaddy",
+            "date": "2024-12-16 13:54:32"
+        },
         {
             "domain_name": "scorezthebar.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "mtinfrastructure.org",
             "destination": "DreamHost",
             "date": "2024-12-14 18:06:09"
-        },
-        {
-            "domain_name": "sweetroars.com",
-            "destination": "Bluehost",
-            "date": "2024-12-14 17:50:15"
         }
     ],
     "dailyMovedStat": {
@@ -597,7 +597,7 @@
         "Digital Ocean": 1794,
         "SiteGround": 1626,
         "Hostinger": 925,
-        "GoDaddy": 439,
+        "GoDaddy": 440,
         "BigScoots": 270,
         "Elementor Hosting": 195,
         "Liquid Web": 189,
