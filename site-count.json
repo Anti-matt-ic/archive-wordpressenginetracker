@@ -1,6 +1,11 @@
 {
-    "siteCount": 28925,
+    "siteCount": 28930,
     "recentlyMoved": [
+        {
+            "domain_name": "onstagecolorado.com",
+            "destination": "SiteGround",
+            "date": "2024-12-16 16:06:13"
+        },
         {
             "domain_name": "ncwit.org",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "affinityregenmed.com",
             "destination": "Namecheap",
             "date": "2024-12-14 19:21:36"
-        },
-        {
-            "domain_name": "mtinfrastructure.org",
-            "destination": "DreamHost",
-            "date": "2024-12-14 18:06:09"
         }
     ],
     "dailyMovedStat": {
@@ -595,7 +595,7 @@
         "Bluehost": 3519,
         "Kinsta": 1825,
         "Digital Ocean": 1794,
-        "SiteGround": 1626,
+        "SiteGround": 1627,
         "Hostinger": 925,
         "GoDaddy": 441,
         "BigScoots": 270,
