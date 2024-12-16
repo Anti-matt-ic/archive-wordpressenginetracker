@@ -1,6 +1,21 @@
 {
-    "siteCount": 28982,
+    "siteCount": 28988,
     "recentlyMoved": [
+        {
+            "domain_name": "cctechcouncil.org",
+            "destination": "SiteGround",
+            "date": "2024-12-16 21:24:41"
+        },
+        {
+            "domain_name": "www.gillardfamilylawyers.com.au",
+            "destination": "SiteGround",
+            "date": "2024-12-16 20:54:09"
+        },
+        {
+            "domain_name": "bayviewglassandglazing.com.au",
+            "destination": "SiteGround",
+            "date": "2024-12-16 20:38:29"
+        },
         {
             "domain_name": "mrc-law.ca",
             "destination": "SiteGround",
@@ -485,21 +500,6 @@
             "domain_name": "www.rapidplumbingmelbourne.com.au",
             "destination": "SiteGround",
             "date": "2024-12-14 20:16:13"
-        },
-        {
-            "domain_name": "ww99.onlineturkishclub.com",
-            "destination": "Liquid Web",
-            "date": "2024-12-14 20:16:13"
-        },
-        {
-            "domain_name": "ilovestax.com",
-            "destination": "Bluehost",
-            "date": "2024-12-14 20:16:13"
-        },
-        {
-            "domain_name": "www.mekanismo.com",
-            "destination": "DreamHost",
-            "date": "2024-12-14 20:16:13"
         }
     ],
     "dailyMovedStat": {
@@ -595,7 +595,7 @@
         "Bluehost": 3519,
         "Kinsta": 1825,
         "Digital Ocean": 1799,
-        "SiteGround": 1628,
+        "SiteGround": 1630,
         "Hostinger": 926,
         "GoDaddy": 442,
         "BigScoots": 270,
