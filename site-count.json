@@ -1,6 +1,16 @@
 {
-    "siteCount": 29020,
+    "siteCount": 29025,
     "recentlyMoved": [
+        {
+            "domain_name": "33gym.co.nz",
+            "destination": "Digital Ocean",
+            "date": "2024-12-17 03:44:53"
+        },
+        {
+            "domain_name": "fullsailmarine.com",
+            "destination": "SiteGround",
+            "date": "2024-12-17 03:38:42"
+        },
         {
             "domain_name": "trustedmoldservices.com",
             "destination": "InMotion Hosting",
@@ -490,16 +500,6 @@
             "domain_name": "lewismanorlabradoodles.com",
             "destination": "SiteGround",
             "date": "2024-12-15 01:51:08"
-        },
-        {
-            "domain_name": "www.mountainskillsacademy.com",
-            "destination": "Hostinger",
-            "date": "2024-12-15 01:09:25"
-        },
-        {
-            "domain_name": "blackatheoffice.com",
-            "destination": "Hostinger",
-            "date": "2024-12-15 00:22:28"
         }
     ],
     "dailyMovedStat": {
@@ -595,8 +595,8 @@
         "Pressable": 6492,
         "Bluehost": 3520,
         "Kinsta": 1826,
-        "Digital Ocean": 1803,
-        "SiteGround": 1636,
+        "Digital Ocean": 1804,
+        "SiteGround": 1637,
         "Hostinger": 929,
         "GoDaddy": 442,
         "BigScoots": 270,
