@@ -1,6 +1,21 @@
 {
-    "siteCount": 29008,
+    "siteCount": 29019,
     "recentlyMoved": [
+        {
+            "domain_name": "tamaraglenn.com",
+            "destination": "Hostinger",
+            "date": "2024-12-17 02:17:29"
+        },
+        {
+            "domain_name": "www.squamishchamber.com",
+            "destination": "Hostinger",
+            "date": "2024-12-17 01:33:27"
+        },
+        {
+            "domain_name": "www.northpointeautogroup.com",
+            "destination": "Bluehost",
+            "date": "2024-12-17 00:59:47"
+        },
         {
             "domain_name": "hoteljardin.com.au",
             "destination": "Kinsta",
@@ -485,21 +500,6 @@
             "domain_name": "heidecook.com",
             "destination": "Kinsta",
             "date": "2024-12-15 00:20:51"
-        },
-        {
-            "domain_name": "thetatau.org",
-            "destination": "Kinsta",
-            "date": "2024-12-14 22:05:10"
-        },
-        {
-            "domain_name": "www.s2pt.com",
-            "destination": "BigScoots",
-            "date": "2024-12-14 21:49:37"
-        },
-        {
-            "domain_name": "lakeannagreen.com",
-            "destination": "GridPane",
-            "date": "2024-12-14 21:18:42"
         }
     ],
     "dailyMovedStat": {
@@ -593,11 +593,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 6492,
-        "Bluehost": 3519,
+        "Bluehost": 3520,
         "Kinsta": 1826,
         "Digital Ocean": 1803,
         "SiteGround": 1636,
-        "Hostinger": 927,
+        "Hostinger": 929,
         "GoDaddy": 442,
         "BigScoots": 270,
         "Elementor Hosting": 195,
