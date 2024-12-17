@@ -1,6 +1,11 @@
 {
-    "siteCount": 28997,
+    "siteCount": 29001,
     "recentlyMoved": [
+        {
+            "domain_name": "artswhistler.com",
+            "destination": "Hostinger",
+            "date": "2024-12-17 00:34:54"
+        },
         {
             "domain_name": "www.ultimatefamilyhaircare.net",
             "destination": "SiteGround",
@@ -487,11 +492,6 @@
             "date": "2024-12-14 21:12:34"
         },
         {
-            "domain_name": "www.fresnofloodcontrol.org",
-            "destination": "Pressable",
-            "date": "2024-12-14 21:06:04"
-        },
-        {
             "domain_name": "chilesenterprises.net",
             "destination": "GridPane",
             "date": "2024-12-14 20:56:50"
@@ -597,7 +597,7 @@
         "Kinsta": 1825,
         "Digital Ocean": 1802,
         "SiteGround": 1635,
-        "Hostinger": 926,
+        "Hostinger": 927,
         "GoDaddy": 442,
         "BigScoots": 270,
         "Elementor Hosting": 195,
