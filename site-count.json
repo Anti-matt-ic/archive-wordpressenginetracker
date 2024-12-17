@@ -1,6 +1,96 @@
 {
-    "siteCount": 29100,
+    "siteCount": 29130,
     "recentlyMoved": [
+        {
+            "domain_name": "jtowngaslight.com",
+            "destination": "Pressable",
+            "date": "2024-12-17 13:33:53"
+        },
+        {
+            "domain_name": "simonpeng.ca",
+            "destination": "Kinsta",
+            "date": "2024-12-17 13:31:34"
+        },
+        {
+            "domain_name": "www.karenpaul.com",
+            "destination": "Kinsta",
+            "date": "2024-12-17 13:28:28"
+        },
+        {
+            "domain_name": "www.hubleycarruthers.com",
+            "destination": "OVH",
+            "date": "2024-12-17 13:22:28"
+        },
+        {
+            "domain_name": "ivylodgeassistedliving.com",
+            "destination": "Bluehost",
+            "date": "2024-12-17 13:20:14"
+        },
+        {
+            "domain_name": "investmentroofing.com",
+            "destination": "SiteGround",
+            "date": "2024-12-17 13:13:35"
+        },
+        {
+            "domain_name": "rewardpathrecovery.com",
+            "destination": "Namecheap",
+            "date": "2024-12-17 13:09:16"
+        },
+        {
+            "domain_name": "robertriggs.com",
+            "destination": "GoDaddy",
+            "date": "2024-12-17 13:01:17"
+        },
+        {
+            "domain_name": "iitprep.in",
+            "destination": "Kinsta",
+            "date": "2024-12-17 12:52:35"
+        },
+        {
+            "domain_name": "iimprep.in",
+            "destination": "Kinsta",
+            "date": "2024-12-17 12:52:35"
+        },
+        {
+            "domain_name": "careersgyan.com",
+            "destination": "Kinsta",
+            "date": "2024-12-17 12:50:33"
+        },
+        {
+            "domain_name": "barterpay.ca",
+            "destination": "Pressable",
+            "date": "2024-12-17 12:49:33"
+        },
+        {
+            "domain_name": "bledsoeusa.com",
+            "destination": "Pressable",
+            "date": "2024-12-17 12:49:29"
+        },
+        {
+            "domain_name": "herrick-company.com",
+            "destination": "Pressable",
+            "date": "2024-12-17 12:45:42"
+        },
+        {
+            "domain_name": "bluegrasslegalsupportservicesllc.com",
+            "destination": "Pressable",
+            "date": "2024-12-17 12:41:48"
+        },
+        {
+            "domain_name": "www.jacquelinewatson.ca",
+            "destination": "Kinsta",
+            "date": "2024-12-17 12:33:39"
+        },
+        {
+            "domain_name": "www.irgra.com",
+            "destination": "InMotion Hosting",
+            "date": "2024-12-17 12:33:39"
+        },
+        {
+            "domain_name": "www.daip.us",
+            "destination": "Hostinger",
+            "date": "2024-12-17 12:31:56"
+        },
         {
             "domain_name": "hartfieldelderlaw.com",
             "destination": "Pressable",
@@ -15,6 +105,11 @@
             "domain_name": "global8235.org",
             "destination": "Pressable",
             "date": "2024-12-17 12:28:37"
+        },
+        {
+            "domain_name": "houseofnaples.com",
+            "destination": "Kinsta",
+            "date": "2024-12-17 12:22:25"
         },
         {
             "domain_name": "futurebusinesscentre.co.uk",
@@ -405,101 +500,6 @@
             "domain_name": "nancymedoff.com",
             "destination": "SiteGround",
             "date": "2024-12-16 11:08:37"
-        },
-        {
-            "domain_name": "maelort.com",
-            "destination": "HostGator",
-            "date": "2024-12-16 10:25:01"
-        },
-        {
-            "domain_name": "commcorrect.tech",
-            "destination": "Hostinger",
-            "date": "2024-12-16 09:58:59"
-        },
-        {
-            "domain_name": "rusuu.co.uk",
-            "destination": "Hostinger",
-            "date": "2024-12-16 09:20:06"
-        },
-        {
-            "domain_name": "hokansonwellness.com",
-            "destination": "Hostinger",
-            "date": "2024-12-16 09:00:56"
-        },
-        {
-            "domain_name": "nationalstair.com",
-            "destination": "InMotion Hosting",
-            "date": "2024-12-16 06:34:05"
-        },
-        {
-            "domain_name": "dagneylaw.com",
-            "destination": "Hostinger",
-            "date": "2024-12-16 05:38:18"
-        },
-        {
-            "domain_name": "solandserenity.com",
-            "destination": "SiteGround",
-            "date": "2024-12-16 05:10:34"
-        },
-        {
-            "domain_name": "sciencedivingnewzealand.co.nz",
-            "destination": "Digital Ocean",
-            "date": "2024-12-16 04:38:14"
-        },
-        {
-            "domain_name": "pulsepropertyservices.co.nz",
-            "destination": "Digital Ocean",
-            "date": "2024-12-16 04:24:48"
-        },
-        {
-            "domain_name": "metalthebrand.com",
-            "destination": "Namecheap",
-            "date": "2024-12-16 01:59:17"
-        },
-        {
-            "domain_name": "cogo.au",
-            "destination": "SiteGround",
-            "date": "2024-12-16 01:53:25"
-        },
-        {
-            "domain_name": "design2.com",
-            "destination": "Pressable",
-            "date": "2024-12-16 01:46:08"
-        },
-        {
-            "domain_name": "hannaharredondo.com",
-            "destination": "SiteGround",
-            "date": "2024-12-16 00:35:31"
-        },
-        {
-            "domain_name": "www.developgoodhabits.com",
-            "destination": "BigScoots",
-            "date": "2024-12-16 00:35:03"
-        },
-        {
-            "domain_name": "www.apctechnologies.net",
-            "destination": "SiteGround",
-            "date": "2024-12-15 23:58:24"
-        },
-        {
-            "domain_name": "www.4seasonspestcontrol.com",
-            "destination": "SiteGround",
-            "date": "2024-12-15 23:32:38"
-        },
-        {
-            "domain_name": "riversedgebuilders.com",
-            "destination": "Pressable",
-            "date": "2024-12-15 20:59:36"
-        },
-        {
-            "domain_name": "www.galvestoncleaners.com",
-            "destination": "DreamHost",
-            "date": "2024-12-15 20:58:06"
-        },
-        {
-            "domain_name": "ravigoyalarizona.net",
-            "destination": "Hostinger",
-            "date": "2024-12-15 20:32:41"
         }
     ],
     "dailyMovedStat": {
@@ -592,23 +592,23 @@
         "2024-12-16": "28997"
     },
     "topDestinationHosts": {
-        "Pressable": 6498,
-        "Bluehost": 3520,
-        "Kinsta": 1833,
+        "Pressable": 6504,
+        "Bluehost": 3521,
+        "Kinsta": 1839,
         "Digital Ocean": 1807,
-        "SiteGround": 1647,
-        "Hostinger": 933,
-        "GoDaddy": 443,
+        "SiteGround": 1648,
+        "Hostinger": 934,
+        "GoDaddy": 444,
         "BigScoots": 270,
         "Elementor Hosting": 196,
         "Liquid Web": 189,
         "Wordify": 140,
         "WordPress.com": 124,
-        "InMotion Hosting": 114,
+        "InMotion Hosting": 115,
         "GridPane": 107,
-        "OVH": 104,
+        "OVH": 105,
         "A2 Hosting": 81,
-        "Namecheap": 76,
+        "Namecheap": 77,
         "Hetzner Online": 71,
         "IONOS": 71,
         "DreamHost": 61
