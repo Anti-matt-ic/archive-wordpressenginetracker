@@ -1,6 +1,36 @@
 {
-    "siteCount": 29038,
+    "siteCount": 29049,
     "recentlyMoved": [
+        {
+            "domain_name": "gyanville.in",
+            "destination": "Kinsta",
+            "date": "2024-12-17 08:37:44"
+        },
+        {
+            "domain_name": "arrowresources.com",
+            "destination": "Hostinger",
+            "date": "2024-12-17 08:16:12"
+        },
+        {
+            "domain_name": "argostheclassics.com",
+            "destination": "SiteGround",
+            "date": "2024-12-17 08:03:34"
+        },
+        {
+            "domain_name": "aquaspersions.com",
+            "destination": "Hetzner Online",
+            "date": "2024-12-17 07:51:03"
+        },
+        {
+            "domain_name": "pentesting.org",
+            "destination": "GridPane",
+            "date": "2024-12-17 07:33:35"
+        },
+        {
+            "domain_name": "ablepowerservice.com",
+            "destination": "InMotion Hosting",
+            "date": "2024-12-17 07:15:52"
+        },
         {
             "domain_name": "montereykirra.com.au",
             "destination": "SiteGround",
@@ -470,36 +500,6 @@
             "domain_name": "escapecloud.io",
             "destination": "Hetzner Online",
             "date": "2024-12-15 10:18:05"
-        },
-        {
-            "domain_name": "bonaterrasalon.com",
-            "destination": "Liquid Web",
-            "date": "2024-12-15 08:25:15"
-        },
-        {
-            "domain_name": "www.bonaterrasalon.com",
-            "destination": "Liquid Web",
-            "date": "2024-12-15 08:01:51"
-        },
-        {
-            "domain_name": "capturedbykatherine.com.au",
-            "destination": "Hostinger",
-            "date": "2024-12-15 04:26:50"
-        },
-        {
-            "domain_name": "csogo.tt",
-            "destination": "GridPane",
-            "date": "2024-12-15 04:16:35"
-        },
-        {
-            "domain_name": "trueweightlosssolutions.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-15 04:05:22"
-        },
-        {
-            "domain_name": "www.lancasterjoiningforces.org",
-            "destination": "Kinsta",
-            "date": "2024-12-15 03:49:48"
         }
     ],
     "dailyMovedStat": {
@@ -594,23 +594,23 @@
     "topDestinationHosts": {
         "Pressable": 6492,
         "Bluehost": 3520,
-        "Kinsta": 1827,
+        "Kinsta": 1828,
         "Digital Ocean": 1805,
-        "SiteGround": 1638,
-        "Hostinger": 929,
+        "SiteGround": 1639,
+        "Hostinger": 930,
         "GoDaddy": 442,
         "BigScoots": 270,
         "Elementor Hosting": 196,
         "Liquid Web": 189,
         "Wordify": 140,
         "WordPress.com": 124,
-        "InMotion Hosting": 113,
-        "GridPane": 106,
+        "InMotion Hosting": 114,
+        "GridPane": 107,
         "OVH": 104,
         "A2 Hosting": 81,
         "Namecheap": 76,
+        "Hetzner Online": 71,
         "IONOS": 71,
-        "Hetzner Online": 70,
         "DreamHost": 61
     },
     "dailyTotalStat": {
