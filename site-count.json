@@ -1,6 +1,71 @@
 {
-    "siteCount": 29079,
+    "siteCount": 29100,
     "recentlyMoved": [
+        {
+            "domain_name": "hartfieldelderlaw.com",
+            "destination": "Pressable",
+            "date": "2024-12-17 12:31:43"
+        },
+        {
+            "domain_name": "goodgobblevending.com",
+            "destination": "SiteGround",
+            "date": "2024-12-17 12:29:56"
+        },
+        {
+            "domain_name": "global8235.org",
+            "destination": "Pressable",
+            "date": "2024-12-17 12:28:37"
+        },
+        {
+            "domain_name": "futurebusinesscentre.co.uk",
+            "destination": "SiteGround",
+            "date": "2024-12-17 12:16:18"
+        },
+        {
+            "domain_name": "alzheimersspeaks.com",
+            "destination": "Hostinger",
+            "date": "2024-12-17 12:11:00"
+        },
+        {
+            "domain_name": "www.averyhealthcare.co.uk",
+            "destination": "Digital Ocean",
+            "date": "2024-12-17 12:07:06"
+        },
+        {
+            "domain_name": "wexfordestates.ca",
+            "destination": "SiteGround",
+            "date": "2024-12-17 11:59:23"
+        },
+        {
+            "domain_name": "pages.adamkoven.com",
+            "destination": "Pressable",
+            "date": "2024-12-17 11:55:21"
+        },
+        {
+            "domain_name": "peterandcarrie.com",
+            "destination": "Kinsta",
+            "date": "2024-12-17 11:45:55"
+        },
+        {
+            "domain_name": "gatewaycwm.org",
+            "destination": "Pressable",
+            "date": "2024-12-17 11:37:00"
+        },
+        {
+            "domain_name": "accounting.tamata.com",
+            "destination": "Digital Ocean",
+            "date": "2024-12-17 11:25:36"
+        },
+        {
+            "domain_name": "onlinecoursesacademy.com",
+            "destination": "SiteGround",
+            "date": "2024-12-17 11:24:50"
+        },
+        {
+            "domain_name": "abhyaas.in",
+            "destination": "Kinsta",
+            "date": "2024-12-17 11:20:43"
+        },
         {
             "domain_name": "venturenorfolk.ca",
             "destination": "Pressable",
@@ -435,71 +500,6 @@
             "domain_name": "ravigoyalarizona.net",
             "destination": "Hostinger",
             "date": "2024-12-15 20:32:41"
-        },
-        {
-            "domain_name": "y4a.499.mytemp.website",
-            "destination": "GoDaddy",
-            "date": "2024-12-15 20:19:18"
-        },
-        {
-            "domain_name": "colorsofmexico.com",
-            "destination": "SiteGround",
-            "date": "2024-12-15 20:19:18"
-        },
-        {
-            "domain_name": "www.dadsorganicmarket.com",
-            "destination": "OVH",
-            "date": "2024-12-15 20:19:18"
-        },
-        {
-            "domain_name": "metamaterial.com",
-            "destination": "Namecheap",
-            "date": "2024-12-15 18:30:02"
-        },
-        {
-            "domain_name": "lisamariephotographie.com",
-            "destination": "Bluehost",
-            "date": "2024-12-15 17:46:39"
-        },
-        {
-            "domain_name": "collectivelyus.org",
-            "destination": "Kinsta",
-            "date": "2024-12-15 17:33:45"
-        },
-        {
-            "domain_name": "sprague.com",
-            "destination": "Pressable",
-            "date": "2024-12-15 17:17:02"
-        },
-        {
-            "domain_name": "hdpha.ca",
-            "destination": "Pressable",
-            "date": "2024-12-15 16:47:30"
-        },
-        {
-            "domain_name": "prismatic.media",
-            "destination": "Hostinger",
-            "date": "2024-12-15 16:27:25"
-        },
-        {
-            "domain_name": "aimgroup.ca",
-            "destination": "Pressable",
-            "date": "2024-12-15 16:03:00"
-        },
-        {
-            "domain_name": "wedesignforgood.net",
-            "destination": "SiteGround",
-            "date": "2024-12-15 15:51:53"
-        },
-        {
-            "domain_name": "ohiomeansjobs-ottawacounty.com",
-            "destination": "InMotion Hosting",
-            "date": "2024-12-15 15:19:24"
-        },
-        {
-            "domain_name": "valoanstexas.com",
-            "destination": "Hostinger",
-            "date": "2024-12-15 14:46:19"
         }
     ],
     "dailyMovedStat": {
@@ -592,12 +592,12 @@
         "2024-12-16": "28997"
     },
     "topDestinationHosts": {
-        "Pressable": 6495,
+        "Pressable": 6498,
         "Bluehost": 3520,
-        "Kinsta": 1831,
-        "Digital Ocean": 1805,
-        "SiteGround": 1643,
-        "Hostinger": 932,
+        "Kinsta": 1833,
+        "Digital Ocean": 1807,
+        "SiteGround": 1647,
+        "Hostinger": 933,
         "GoDaddy": 443,
         "BigScoots": 270,
         "Elementor Hosting": 196,
