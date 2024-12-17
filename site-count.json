@@ -1,6 +1,16 @@
 {
-    "siteCount": 29025,
+    "siteCount": 29030,
     "recentlyMoved": [
+        {
+            "domain_name": "www.imaginegrove.com",
+            "destination": "HostGator",
+            "date": "2024-12-17 05:07:19"
+        },
+        {
+            "domain_name": "sedonaartscenter.org",
+            "destination": "Digital Ocean",
+            "date": "2024-12-17 04:41:07"
+        },
         {
             "domain_name": "33gym.co.nz",
             "destination": "Digital Ocean",
@@ -482,11 +492,6 @@
             "date": "2024-12-15 03:49:48"
         },
         {
-            "domain_name": "www.cooperscoffeeco.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-15 03:44:35"
-        },
-        {
             "domain_name": "internationalcoversystems.com",
             "destination": "Hostinger",
             "date": "2024-12-15 03:36:48"
@@ -495,11 +500,6 @@
             "domain_name": "shop.thecoolhunter.net",
             "destination": "Hostinger",
             "date": "2024-12-15 03:15:12"
-        },
-        {
-            "domain_name": "lewismanorlabradoodles.com",
-            "destination": "SiteGround",
-            "date": "2024-12-15 01:51:08"
         }
     ],
     "dailyMovedStat": {
@@ -595,7 +595,7 @@
         "Pressable": 6492,
         "Bluehost": 3520,
         "Kinsta": 1826,
-        "Digital Ocean": 1804,
+        "Digital Ocean": 1805,
         "SiteGround": 1637,
         "Hostinger": 929,
         "GoDaddy": 442,
