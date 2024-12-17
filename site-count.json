@@ -1,6 +1,11 @@
 {
-    "siteCount": 29035,
+    "siteCount": 29038,
     "recentlyMoved": [
+        {
+            "domain_name": "montereykirra.com.au",
+            "destination": "SiteGround",
+            "date": "2024-12-17 06:36:47"
+        },
         {
             "domain_name": "dekkhuset.no",
             "destination": "Elementor Hosting",
@@ -495,11 +500,6 @@
             "domain_name": "www.lancasterjoiningforces.org",
             "destination": "Kinsta",
             "date": "2024-12-15 03:49:48"
-        },
-        {
-            "domain_name": "internationalcoversystems.com",
-            "destination": "Hostinger",
-            "date": "2024-12-15 03:36:48"
         }
     ],
     "dailyMovedStat": {
@@ -596,7 +596,7 @@
         "Bluehost": 3520,
         "Kinsta": 1827,
         "Digital Ocean": 1805,
-        "SiteGround": 1637,
+        "SiteGround": 1638,
         "Hostinger": 929,
         "GoDaddy": 442,
         "BigScoots": 270,
