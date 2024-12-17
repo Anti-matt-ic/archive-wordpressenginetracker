@@ -1,15 +1,55 @@
 {
-    "siteCount": 29247,
+    "siteCount": 29260,
     "recentlyMoved": [
+        {
+            "domain_name": "nextlevel.legal",
+            "destination": "GoDaddy",
+            "date": "2024-12-17 19:16:43"
+        },
+        {
+            "domain_name": "morriscolumbus.com",
+            "destination": "SiteGround",
+            "date": "2024-12-17 19:12:59"
+        },
+        {
+            "domain_name": "vaughncoentertainment.com",
+            "destination": "SiteGround",
+            "date": "2024-12-17 18:56:46"
+        },
+        {
+            "domain_name": "mastermix.co.nz",
+            "destination": "Digital Ocean",
+            "date": "2024-12-17 18:48:40"
+        },
+        {
+            "domain_name": "venturex.com",
+            "destination": "SiteGround",
+            "date": "2024-12-17 18:45:35"
+        },
         {
             "domain_name": "www.tailordshades.com",
             "destination": "Pressable",
             "date": "2024-12-17 18:43:09"
         },
         {
+            "domain_name": "truecrewwindows.com",
+            "destination": "SiteGround",
+            "date": "2024-12-17 18:35:42"
+        },
+        {
+            "domain_name": "evergreen-ins.com",
+            "destination": "SiteGround",
+            "date": "2024-12-17 18:35:39"
+        },
+        {
             "domain_name": "dcmg.us",
             "destination": "Kinsta",
             "date": "2024-12-17 18:30:45"
+        },
+        {
+            "domain_name": "thecraftwinefest.com",
+            "destination": "SiteGround",
+            "date": "2024-12-17 18:29:14"
         },
         {
             "domain_name": "www.salinastriallaw.com",
@@ -37,6 +77,11 @@
             "date": "2024-12-17 18:25:08"
         },
         {
+            "domain_name": "modernglazing.com",
+            "destination": "Kinsta",
+            "date": "2024-12-17 18:24:08"
+        },
+        {
             "domain_name": "lloydathleticclub.com",
             "destination": "Digital Ocean",
             "date": "2024-12-17 18:15:46"
@@ -45,6 +90,11 @@
             "domain_name": "lowellcorp.com",
             "destination": "Kinsta",
             "date": "2024-12-17 18:13:46"
+        },
+        {
+            "domain_name": "defoxi.com",
+            "destination": "Kinsta",
+            "date": "2024-12-17 18:12:47"
         },
         {
             "domain_name": "stacylcartercpa.com",
@@ -60,6 +110,11 @@
             "domain_name": "www.thetuckeraccounting.com",
             "destination": "Pressable",
             "date": "2024-12-17 18:06:17"
+        },
+        {
+            "domain_name": "www.whieldoncementworks.com",
+            "destination": "Pressable",
+            "date": "2024-12-17 18:03:20"
         },
         {
             "domain_name": "www.tigersolutionsgroup.com",
@@ -437,69 +492,14 @@
             "date": "2024-12-17 12:29:56"
         },
         {
-            "domain_name": "global8235.org",
-            "destination": "Pressable",
-            "date": "2024-12-17 12:28:37"
-        },
-        {
             "domain_name": "houseofnaples.com",
             "destination": "Kinsta",
             "date": "2024-12-17 12:22:25"
         },
         {
-            "domain_name": "futurebusinesscentre.co.uk",
-            "destination": "SiteGround",
-            "date": "2024-12-17 12:16:18"
-        },
-        {
-            "domain_name": "alzheimersspeaks.com",
-            "destination": "Hostinger",
-            "date": "2024-12-17 12:11:00"
-        },
-        {
             "domain_name": "www.averyhealthcare.co.uk",
             "destination": "Digital Ocean",
             "date": "2024-12-17 12:07:06"
-        },
-        {
-            "domain_name": "wexfordestates.ca",
-            "destination": "SiteGround",
-            "date": "2024-12-17 11:59:23"
-        },
-        {
-            "domain_name": "pages.adamkoven.com",
-            "destination": "Pressable",
-            "date": "2024-12-17 11:55:21"
-        },
-        {
-            "domain_name": "peterandcarrie.com",
-            "destination": "Kinsta",
-            "date": "2024-12-17 11:45:55"
-        },
-        {
-            "domain_name": "gatewaycwm.org",
-            "destination": "Pressable",
-            "date": "2024-12-17 11:37:00"
-        },
-        {
-            "domain_name": "accounting.tamata.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-17 11:25:36"
-        },
-        {
-            "domain_name": "onlinecoursesacademy.com",
-            "destination": "SiteGround",
-            "date": "2024-12-17 11:24:50"
-        },
-        {
-            "domain_name": "abhyaas.in",
-            "destination": "Kinsta",
-            "date": "2024-12-17 11:20:43"
-        },
-        {
-            "domain_name": "venturenorfolk.ca",
-            "destination": "Pressable",
-            "date": "2024-12-17 10:46:34"
         }
     ],
     "dailyMovedStat": {
@@ -592,13 +592,13 @@
         "2024-12-16": "28997"
     },
     "topDestinationHosts": {
-        "Pressable": 6515,
+        "Pressable": 6518,
         "Bluehost": 3521,
-        "Kinsta": 1862,
-        "Digital Ocean": 1814,
-        "SiteGround": 1658,
+        "Kinsta": 1866,
+        "Digital Ocean": 1816,
+        "SiteGround": 1664,
         "Hostinger": 936,
-        "GoDaddy": 445,
+        "GoDaddy": 446,
         "BigScoots": 271,
         "Elementor Hosting": 196,
         "Liquid Web": 192,
