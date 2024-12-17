@@ -1,6 +1,11 @@
 {
-    "siteCount": 29019,
+    "siteCount": 29020,
     "recentlyMoved": [
+        {
+            "domain_name": "trustedmoldservices.com",
+            "destination": "InMotion Hosting",
+            "date": "2024-12-17 02:39:37"
+        },
         {
             "domain_name": "tamaraglenn.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "blackatheoffice.com",
             "destination": "Hostinger",
             "date": "2024-12-15 00:22:28"
-        },
-        {
-            "domain_name": "heidecook.com",
-            "destination": "Kinsta",
-            "date": "2024-12-15 00:20:51"
         }
     ],
     "dailyMovedStat": {
@@ -604,7 +604,7 @@
         "Liquid Web": 189,
         "Wordify": 140,
         "WordPress.com": 124,
-        "InMotion Hosting": 112,
+        "InMotion Hosting": 113,
         "GridPane": 106,
         "OVH": 104,
         "A2 Hosting": 81,
