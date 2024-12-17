@@ -1,6 +1,66 @@
 {
-    "siteCount": 29162,
+    "siteCount": 29188,
     "recentlyMoved": [
+        {
+            "domain_name": "pioneerwestrealty.com",
+            "destination": "GridPane",
+            "date": "2024-12-17 16:30:34"
+        },
+        {
+            "domain_name": "www.athensprinting.ca",
+            "destination": "Pressable",
+            "date": "2024-12-17 16:24:59"
+        },
+        {
+            "domain_name": "opescre.com",
+            "destination": "Digital Ocean",
+            "date": "2024-12-17 16:13:49"
+        },
+        {
+            "domain_name": "www.acwqa.com",
+            "destination": "Pressable",
+            "date": "2024-12-17 16:05:01"
+        },
+        {
+            "domain_name": "wellbeinglaughter.com",
+            "destination": "Hostinger",
+            "date": "2024-12-17 16:04:00"
+        },
+        {
+            "domain_name": "albertnahmanplumbing.com",
+            "destination": "Liquid Web",
+            "date": "2024-12-17 15:56:28"
+        },
+        {
+            "domain_name": "waverlyhicks.com",
+            "destination": "Kinsta",
+            "date": "2024-12-17 15:55:50"
+        },
+        {
+            "domain_name": "gowanusguide.com",
+            "destination": "Kinsta",
+            "date": "2024-12-17 15:53:12"
+        },
+        {
+            "domain_name": "www.airiphoto.com",
+            "destination": "Pressable",
+            "date": "2024-12-17 15:52:14"
+        },
+        {
+            "domain_name": "golfshotz.ca",
+            "destination": "SiteGround",
+            "date": "2024-12-17 15:50:07"
+        },
+        {
+            "domain_name": "www.arvinair.com",
+            "destination": "Pressable",
+            "date": "2024-12-17 15:49:49"
+        },
+        {
+            "domain_name": "focus-sdkids.org",
+            "destination": "Kinsta",
+            "date": "2024-12-17 15:41:59"
+        },
         {
             "domain_name": "monarchtitle.net",
             "destination": "Kinsta",
@@ -440,66 +500,6 @@
             "domain_name": "koogerandco.co.nz",
             "destination": "Digital Ocean",
             "date": "2024-12-16 21:00:16"
-        },
-        {
-            "domain_name": "www.gillardfamilylawyers.com.au",
-            "destination": "SiteGround",
-            "date": "2024-12-16 20:54:09"
-        },
-        {
-            "domain_name": "bayviewglassandglazing.com.au",
-            "destination": "SiteGround",
-            "date": "2024-12-16 20:38:29"
-        },
-        {
-            "domain_name": "mrc-law.ca",
-            "destination": "SiteGround",
-            "date": "2024-12-16 19:56:58"
-        },
-        {
-            "domain_name": "yolopebble.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-16 19:56:58"
-        },
-        {
-            "domain_name": "theroofco-waco.com",
-            "destination": "Hostinger",
-            "date": "2024-12-16 19:56:58"
-        },
-        {
-            "domain_name": "bluemountainvillage.ca",
-            "destination": "Digital Ocean",
-            "date": "2024-12-16 19:56:58"
-        },
-        {
-            "domain_name": "nfm.agency",
-            "destination": "OVH",
-            "date": "2024-12-16 19:56:58"
-        },
-        {
-            "domain_name": "www.auw.org",
-            "destination": "Pressable",
-            "date": "2024-12-16 19:56:58"
-        },
-        {
-            "domain_name": "sushiprivatechef.com",
-            "destination": "HostGator",
-            "date": "2024-12-16 19:56:58"
-        },
-        {
-            "domain_name": "www.islanderfoundation.org",
-            "destination": "Pressable",
-            "date": "2024-12-16 19:56:58"
-        },
-        {
-            "domain_name": "laserfreeconfocal.com",
-            "destination": "GoDaddy",
-            "date": "2024-12-16 19:56:58"
-        },
-        {
-            "domain_name": "aainspect.co.nz",
-            "destination": "Digital Ocean",
-            "date": "2024-12-16 19:44:14"
         }
     ],
     "dailyMovedStat": {
@@ -592,20 +592,20 @@
         "2024-12-16": "28997"
     },
     "topDestinationHosts": {
-        "Pressable": 6506,
+        "Pressable": 6510,
         "Bluehost": 3521,
-        "Kinsta": 1844,
-        "Digital Ocean": 1807,
-        "SiteGround": 1652,
-        "Hostinger": 934,
+        "Kinsta": 1847,
+        "Digital Ocean": 1808,
+        "SiteGround": 1653,
+        "Hostinger": 935,
         "GoDaddy": 444,
         "BigScoots": 271,
         "Elementor Hosting": 196,
-        "Liquid Web": 189,
+        "Liquid Web": 190,
         "Wordify": 140,
         "WordPress.com": 124,
         "InMotion Hosting": 115,
-        "GridPane": 107,
+        "GridPane": 108,
         "OVH": 105,
         "A2 Hosting": 82,
         "Namecheap": 77,
