@@ -1,6 +1,51 @@
 {
-    "siteCount": 29053,
+    "siteCount": 29069,
     "recentlyMoved": [
+        {
+            "domain_name": "www.widgeypillows.com",
+            "destination": "SiteGround",
+            "date": "2024-12-17 10:33:36"
+        },
+        {
+            "domain_name": "massvetservices.com",
+            "destination": "Hostinger",
+            "date": "2024-12-17 10:24:45"
+        },
+        {
+            "domain_name": "mechdrive.com",
+            "destination": "Hostinger",
+            "date": "2024-12-17 10:08:14"
+        },
+        {
+            "domain_name": "stonemount.ca",
+            "destination": "SiteGround",
+            "date": "2024-12-17 10:07:08"
+        },
+        {
+            "domain_name": "tailoredangler.com",
+            "destination": "SiteGround",
+            "date": "2024-12-17 10:01:04"
+        },
+        {
+            "domain_name": "cumberlandacres.com",
+            "destination": "Pressable",
+            "date": "2024-12-17 10:00:35"
+        },
+        {
+            "domain_name": "lawprep.in",
+            "destination": "Kinsta",
+            "date": "2024-12-17 09:34:22"
+        },
+        {
+            "domain_name": "chriscavallini.com",
+            "destination": "SiteGround",
+            "date": "2024-12-17 09:33:09"
+        },
+        {
+            "domain_name": "connrealty.com",
+            "destination": "GoDaddy",
+            "date": "2024-12-17 09:19:03"
+        },
         {
             "domain_name": "gyanville.in",
             "destination": "Kinsta",
@@ -455,51 +500,6 @@
             "domain_name": "www.valoancenter.net",
             "destination": "Hostinger",
             "date": "2024-12-15 13:50:13"
-        },
-        {
-            "domain_name": "cleopatrajonesibz.com",
-            "destination": "Hostinger",
-            "date": "2024-12-15 13:13:55"
-        },
-        {
-            "domain_name": "revolution365.net",
-            "destination": "SiteGround",
-            "date": "2024-12-15 12:18:45"
-        },
-        {
-            "domain_name": "onlinefreighttraining.com",
-            "destination": "SiteGround",
-            "date": "2024-12-15 12:10:38"
-        },
-        {
-            "domain_name": "www.twincovemarina.com",
-            "destination": "Pressable",
-            "date": "2024-12-15 11:51:06"
-        },
-        {
-            "domain_name": "williamcaligari.com",
-            "destination": "Pressable",
-            "date": "2024-12-15 11:33:33"
-        },
-        {
-            "domain_name": "norsmarketing.com",
-            "destination": "Hostinger",
-            "date": "2024-12-15 10:59:49"
-        },
-        {
-            "domain_name": "turnpointmedia.com",
-            "destination": "Hostinger",
-            "date": "2024-12-15 10:32:28"
-        },
-        {
-            "domain_name": "thedrapershotel.com",
-            "destination": "SiteGround",
-            "date": "2024-12-15 10:23:31"
-        },
-        {
-            "domain_name": "escapecloud.io",
-            "destination": "Hetzner Online",
-            "date": "2024-12-15 10:18:05"
         }
     ],
     "dailyMovedStat": {
@@ -592,13 +592,13 @@
         "2024-12-16": "28997"
     },
     "topDestinationHosts": {
-        "Pressable": 6492,
+        "Pressable": 6493,
         "Bluehost": 3520,
-        "Kinsta": 1828,
+        "Kinsta": 1829,
         "Digital Ocean": 1805,
-        "SiteGround": 1639,
-        "Hostinger": 930,
-        "GoDaddy": 442,
+        "SiteGround": 1643,
+        "Hostinger": 932,
+        "GoDaddy": 443,
         "BigScoots": 270,
         "Elementor Hosting": 196,
         "Liquid Web": 189,
