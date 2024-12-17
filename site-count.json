@@ -1,6 +1,16 @@
 {
-    "siteCount": 29030,
+    "siteCount": 29035,
     "recentlyMoved": [
+        {
+            "domain_name": "dekkhuset.no",
+            "destination": "Elementor Hosting",
+            "date": "2024-12-17 06:05:28"
+        },
+        {
+            "domain_name": "www.padley-venables.com",
+            "destination": "Kinsta",
+            "date": "2024-12-17 05:35:03"
+        },
         {
             "domain_name": "www.imaginegrove.com",
             "destination": "HostGator",
@@ -482,11 +492,6 @@
             "date": "2024-12-15 04:05:22"
         },
         {
-            "domain_name": "monkmusic.co",
-            "destination": "GridPane",
-            "date": "2024-12-15 03:51:51"
-        },
-        {
             "domain_name": "www.lancasterjoiningforces.org",
             "destination": "Kinsta",
             "date": "2024-12-15 03:49:48"
@@ -495,11 +500,6 @@
             "domain_name": "internationalcoversystems.com",
             "destination": "Hostinger",
             "date": "2024-12-15 03:36:48"
-        },
-        {
-            "domain_name": "shop.thecoolhunter.net",
-            "destination": "Hostinger",
-            "date": "2024-12-15 03:15:12"
         }
     ],
     "dailyMovedStat": {
@@ -594,13 +594,13 @@
     "topDestinationHosts": {
         "Pressable": 6492,
         "Bluehost": 3520,
-        "Kinsta": 1826,
+        "Kinsta": 1827,
         "Digital Ocean": 1805,
         "SiteGround": 1637,
         "Hostinger": 929,
         "GoDaddy": 442,
         "BigScoots": 270,
-        "Elementor Hosting": 195,
+        "Elementor Hosting": 196,
         "Liquid Web": 189,
         "Wordify": 140,
         "WordPress.com": 124,
