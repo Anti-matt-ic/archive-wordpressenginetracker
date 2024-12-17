@@ -1,6 +1,21 @@
 {
-    "siteCount": 29001,
+    "siteCount": 29008,
     "recentlyMoved": [
+        {
+            "domain_name": "hoteljardin.com.au",
+            "destination": "Kinsta",
+            "date": "2024-12-17 00:52:25"
+        },
+        {
+            "domain_name": "innovativeconnecting.com",
+            "destination": "Digital Ocean",
+            "date": "2024-12-17 00:52:03"
+        },
+        {
+            "domain_name": "islakirrabeach.com.au",
+            "destination": "SiteGround",
+            "date": "2024-12-17 00:38:13"
+        },
         {
             "domain_name": "artswhistler.com",
             "destination": "Hostinger",
@@ -485,21 +500,6 @@
             "domain_name": "lakeannagreen.com",
             "destination": "GridPane",
             "date": "2024-12-14 21:18:42"
-        },
-        {
-            "domain_name": "samsonmedia.net",
-            "destination": "SiteGround",
-            "date": "2024-12-14 21:12:34"
-        },
-        {
-            "domain_name": "chilesenterprises.net",
-            "destination": "GridPane",
-            "date": "2024-12-14 20:56:50"
-        },
-        {
-            "domain_name": "capespace.com",
-            "destination": "Hostinger",
-            "date": "2024-12-14 20:55:16"
         }
     ],
     "dailyMovedStat": {
@@ -594,9 +594,9 @@
     "topDestinationHosts": {
         "Pressable": 6492,
         "Bluehost": 3519,
-        "Kinsta": 1825,
-        "Digital Ocean": 1802,
-        "SiteGround": 1635,
+        "Kinsta": 1826,
+        "Digital Ocean": 1803,
+        "SiteGround": 1636,
         "Hostinger": 927,
         "GoDaddy": 442,
         "BigScoots": 270,
