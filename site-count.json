@@ -1,6 +1,36 @@
 {
-    "siteCount": 29423,
+    "siteCount": 29431,
     "recentlyMoved": [
+        {
+            "domain_name": "haltenbanken.com",
+            "destination": "Pressable",
+            "date": "2024-12-18 08:26:48"
+        },
+        {
+            "domain_name": "goldtherapynyc.com",
+            "destination": "SiteGround",
+            "date": "2024-12-18 08:21:17"
+        },
+        {
+            "domain_name": "www.bobangles.com.au",
+            "destination": "Kinsta",
+            "date": "2024-12-18 08:18:26"
+        },
+        {
+            "domain_name": "pickandenjoyvending.com",
+            "destination": "SiteGround",
+            "date": "2024-12-18 08:13:53"
+        },
+        {
+            "domain_name": "airtechinstall.com",
+            "destination": "Pressable",
+            "date": "2024-12-18 08:00:17"
+        },
+        {
+            "domain_name": "oeconsulting.com",
+            "destination": "Bluehost",
+            "date": "2024-12-18 07:34:16"
+        },
         {
             "domain_name": "blowingrocknews.com",
             "destination": "Hetzner Online",
@@ -407,11 +437,6 @@
             "date": "2024-12-17 18:29:14"
         },
         {
-            "domain_name": "www.salinastriallaw.com",
-            "destination": "Liquid Web",
-            "date": "2024-12-17 18:29:11"
-        },
-        {
             "domain_name": "www.swellbuilding.com.au",
             "destination": "Kinsta",
             "date": "2024-12-17 18:28:19"
@@ -452,16 +477,6 @@
             "date": "2024-12-17 18:12:47"
         },
         {
-            "domain_name": "stacylcartercpa.com",
-            "destination": "SiteGround",
-            "date": "2024-12-17 18:10:56"
-        },
-        {
-            "domain_name": "www.restaurantlegalsummit.org",
-            "destination": "Pressable",
-            "date": "2024-12-17 18:09:22"
-        },
-        {
             "domain_name": "www.thetuckeraccounting.com",
             "destination": "Pressable",
             "date": "2024-12-17 18:06:17"
@@ -482,24 +497,9 @@
             "date": "2024-12-17 17:50:44"
         },
         {
-            "domain_name": "levineyecare.com",
-            "destination": "Kinsta",
-            "date": "2024-12-17 17:48:25"
-        },
-        {
             "domain_name": "sweetkickinsalsa.com",
             "destination": "IONOS",
             "date": "2024-12-17 17:48:08"
-        },
-        {
-            "domain_name": "k9kittfoundation.com",
-            "destination": "Namecheap",
-            "date": "2024-12-17 17:40:16"
-        },
-        {
-            "domain_name": "spencerandcompany.com",
-            "destination": "Pressable",
-            "date": "2024-12-17 17:22:53"
         }
     ],
     "dailyMovedStat": {
@@ -593,11 +593,11 @@
         "2024-12-17": "29355"
     },
     "topDestinationHosts": {
-        "Pressable": 6529,
-        "Bluehost": 3524,
+        "Pressable": 6530,
+        "Bluehost": 3525,
         "Kinsta": 1876,
         "Digital Ocean": 1833,
-        "SiteGround": 1672,
+        "SiteGround": 1674,
         "Hostinger": 946,
         "GoDaddy": 450,
         "BigScoots": 271,
