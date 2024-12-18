@@ -1,6 +1,81 @@
 {
-    "siteCount": 29467,
+    "siteCount": 29492,
     "recentlyMoved": [
+        {
+            "domain_name": "groundswellcenter.org",
+            "destination": "Pressable",
+            "date": "2024-12-18 12:34:49"
+        },
+        {
+            "domain_name": "www.andersengrouprealty.com",
+            "destination": "Kinsta",
+            "date": "2024-12-18 12:32:12"
+        },
+        {
+            "domain_name": "www.acriteam.com",
+            "destination": "Kinsta",
+            "date": "2024-12-18 12:18:15"
+        },
+        {
+            "domain_name": "alcottliving.com",
+            "destination": "GridPane",
+            "date": "2024-12-18 12:16:48"
+        },
+        {
+            "domain_name": "amyodellwilson.com",
+            "destination": "Pressable",
+            "date": "2024-12-18 12:12:12"
+        },
+        {
+            "domain_name": "www.cardinalhi.org",
+            "destination": "Pressable",
+            "date": "2024-12-18 12:11:25"
+        },
+        {
+            "domain_name": "amirandaleks.com",
+            "destination": "Kinsta",
+            "date": "2024-12-18 12:10:41"
+        },
+        {
+            "domain_name": "armourrestoration.ca",
+            "destination": "Kinsta",
+            "date": "2024-12-18 12:04:32"
+        },
+        {
+            "domain_name": "privatelabelsurrogacy.com",
+            "destination": "GoDaddy",
+            "date": "2024-12-18 12:01:02"
+        },
+        {
+            "domain_name": "andersoncoastal.com",
+            "destination": "Kinsta",
+            "date": "2024-12-18 11:58:08"
+        },
+        {
+            "domain_name": "hardingdevelopmentgroup.com",
+            "destination": "Hostinger",
+            "date": "2024-12-18 11:57:31"
+        },
+        {
+            "domain_name": "aboderealty.ca",
+            "destination": "Kinsta",
+            "date": "2024-12-18 11:56:10"
+        },
+        {
+            "domain_name": "annabrightluxurytravel.com",
+            "destination": "SiteGround",
+            "date": "2024-12-18 11:55:31"
+        },
+        {
+            "domain_name": "productiveforgood.org",
+            "destination": "Pressable",
+            "date": "2024-12-18 11:52:58"
+        },
+        {
+            "domain_name": "onwardsproject.org",
+            "destination": "Pressable",
+            "date": "2024-12-18 11:38:20"
+        },
         {
             "domain_name": "norsktur.no",
             "destination": "Digital Ocean",
@@ -382,11 +457,6 @@
             "date": "2024-12-17 20:32:43"
         },
         {
-            "domain_name": "www.allprostriping.com",
-            "destination": "Pressable",
-            "date": "2024-12-17 20:30:49"
-        },
-        {
             "domain_name": "hotwatershop.co.nz",
             "destination": "Digital Ocean",
             "date": "2024-12-17 20:30:28"
@@ -417,16 +487,6 @@
             "date": "2024-12-17 20:13:27"
         },
         {
-            "domain_name": "www.bughousepestcontrol.com",
-            "destination": "Liquid Web",
-            "date": "2024-12-17 20:13:27"
-        },
-        {
-            "domain_name": "www.bambambuilder.com",
-            "destination": "Pressable",
-            "date": "2024-12-17 20:11:42"
-        },
-        {
             "domain_name": "avalonnailsandbeauty.com",
             "destination": "Digital Ocean",
             "date": "2024-12-17 20:11:28"
@@ -437,69 +497,9 @@
             "date": "2024-12-17 20:09:39"
         },
         {
-            "domain_name": "www.beautifulfinishlandscaping.com",
-            "destination": "Pressable",
-            "date": "2024-12-17 20:09:34"
-        },
-        {
             "domain_name": "baileysjewellery.co.uk",
             "destination": "Hostinger",
             "date": "2024-12-17 20:03:26"
-        },
-        {
-            "domain_name": "williamsmachine.org",
-            "destination": "Pressable",
-            "date": "2024-12-17 20:01:13"
-        },
-        {
-            "domain_name": "www.605fireprotection.com",
-            "destination": "Pressable",
-            "date": "2024-12-17 19:56:41"
-        },
-        {
-            "domain_name": "flavoredconcrete.com",
-            "destination": "SiteGround",
-            "date": "2024-12-17 19:55:25"
-        },
-        {
-            "domain_name": "nyboatingsafety.com",
-            "destination": "Bluehost",
-            "date": "2024-12-17 19:52:11"
-        },
-        {
-            "domain_name": "www.amundsonwindowcleaning.com",
-            "destination": "SiteGround",
-            "date": "2024-12-17 19:45:39"
-        },
-        {
-            "domain_name": "flyntlincolngolf.com",
-            "destination": "Hostinger",
-            "date": "2024-12-17 19:21:35"
-        },
-        {
-            "domain_name": "nextlevel.legal",
-            "destination": "GoDaddy",
-            "date": "2024-12-17 19:16:43"
-        },
-        {
-            "domain_name": "vaughncoentertainment.com",
-            "destination": "SiteGround",
-            "date": "2024-12-17 18:56:46"
-        },
-        {
-            "domain_name": "venturex.com",
-            "destination": "SiteGround",
-            "date": "2024-12-17 18:45:35"
-        },
-        {
-            "domain_name": "truecrewwindows.com",
-            "destination": "SiteGround",
-            "date": "2024-12-17 18:35:42"
-        },
-        {
-            "domain_name": "evergreen-ins.com",
-            "destination": "SiteGround",
-            "date": "2024-12-17 18:35:39"
         }
     ],
     "dailyMovedStat": {
@@ -593,20 +593,20 @@
         "2024-12-17": "29355"
     },
     "topDestinationHosts": {
-        "Pressable": 6538,
+        "Pressable": 6541,
         "Bluehost": 3525,
-        "Kinsta": 1879,
+        "Kinsta": 1885,
         "Digital Ocean": 1837,
-        "SiteGround": 1678,
+        "SiteGround": 1679,
         "Hostinger": 946,
-        "GoDaddy": 451,
+        "GoDaddy": 452,
         "BigScoots": 271,
         "Elementor Hosting": 196,
         "Liquid Web": 193,
         "Wordify": 140,
         "WordPress.com": 124,
         "InMotion Hosting": 115,
-        "GridPane": 109,
+        "GridPane": 110,
         "OVH": 105,
         "A2 Hosting": 84,
         "Namecheap": 79,
