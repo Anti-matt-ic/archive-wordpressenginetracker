@@ -1,10 +1,25 @@
 {
-    "siteCount": 29788,
+    "siteCount": 29794,
     "recentlyMoved": [
+        {
+            "domain_name": "todosobrecamisetas.com",
+            "destination": "Hostinger",
+            "date": "2024-12-18 22:41:33"
+        },
         {
             "domain_name": "theretreataesthetics.com",
             "destination": "Kinsta",
             "date": "2024-12-18 22:28:07"
+        },
+        {
+            "domain_name": "muddycreekanimalhospital.com",
+            "destination": "Kinsta",
+            "date": "2024-12-18 22:25:45"
+        },
+        {
+            "domain_name": "midislandvet.com",
+            "destination": "Kinsta",
+            "date": "2024-12-18 22:24:53"
         },
         {
             "domain_name": "delaneyparkdental.com",
@@ -485,21 +500,6 @@
             "domain_name": "premiumchoicephotobooth.com",
             "destination": "Digital Ocean",
             "date": "2024-12-18 16:15:54"
-        },
-        {
-            "domain_name": "gowanuscreativestudios.com",
-            "destination": "Kinsta",
-            "date": "2024-12-18 16:04:26"
-        },
-        {
-            "domain_name": "aodetail.com",
-            "destination": "SiteGround",
-            "date": "2024-12-18 15:54:31"
-        },
-        {
-            "domain_name": "grannysfreshdressing.com",
-            "destination": "SiteGround",
-            "date": "2024-12-18 15:49:26"
         }
     ],
     "dailyMovedStat": {
@@ -590,15 +590,16 @@
         "2024-12-14": "28737",
         "2024-12-15": "28865",
         "2024-12-16": "28997",
-        "2024-12-17": "29355"
+        "2024-12-17": "29355",
+        "2024-12-18": "29794"
     },
     "topDestinationHosts": {
         "Pressable": 6583,
         "Bluehost": 3527,
-        "Kinsta": 1919,
+        "Kinsta": 1922,
         "Digital Ocean": 1860,
         "SiteGround": 1704,
-        "Hostinger": 955,
+        "Hostinger": 956,
         "GoDaddy": 453,
         "BigScoots": 279,
         "Elementor Hosting": 196,
@@ -702,6 +703,7 @@
         "2024-12-14": "695120",
         "2024-12-15": "695355",
         "2024-12-16": "694609",
-        "2024-12-17": "693450"
+        "2024-12-17": "693450",
+        "2024-12-18": "692442"
     }
 }
