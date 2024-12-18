@@ -1,5 +1,5 @@
 {
-    "siteCount": 29373,
+    "siteCount": 29379,
     "recentlyMoved": [
         {
             "domain_name": "grounduplandscaping.co.nz",
@@ -15,6 +15,11 @@
             "domain_name": "www.nichireiusa.com",
             "destination": "Kinsta",
             "date": "2024-12-18 00:16:26"
+        },
+        {
+            "domain_name": "hebervalleymartialarts.com",
+            "destination": "Hostinger",
+            "date": "2024-12-18 00:03:17"
         },
         {
             "domain_name": "www.superiorimprints.com",
@@ -427,11 +432,6 @@
             "date": "2024-12-17 17:13:29"
         },
         {
-            "domain_name": "baerinvestment.com",
-            "destination": "Kinsta",
-            "date": "2024-12-17 17:03:56"
-        },
-        {
             "domain_name": "sd-propane.com",
             "destination": "Kinsta",
             "date": "2024-12-17 17:03:27"
@@ -593,12 +593,12 @@
         "2024-12-17": "29355"
     },
     "topDestinationHosts": {
-        "Pressable": 6523,
+        "Pressable": 6524,
         "Bluehost": 3523,
         "Kinsta": 1874,
         "Digital Ocean": 1831,
         "SiteGround": 1671,
-        "Hostinger": 940,
+        "Hostinger": 941,
         "GoDaddy": 450,
         "BigScoots": 271,
         "Elementor Hosting": 196,
