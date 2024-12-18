@@ -1,6 +1,76 @@
 {
-    "siteCount": 29526,
+    "siteCount": 29554,
     "recentlyMoved": [
+        {
+            "domain_name": "thorpewater.com",
+            "destination": "Hostinger",
+            "date": "2024-12-18 14:39:37"
+        },
+        {
+            "domain_name": "dangerousgoodspacking.com",
+            "destination": "SiteGround",
+            "date": "2024-12-18 14:17:07"
+        },
+        {
+            "domain_name": "dangerousgoodsawareness.co.uk",
+            "destination": "SiteGround",
+            "date": "2024-12-18 14:17:07"
+        },
+        {
+            "domain_name": "medusatattoostudio.net",
+            "destination": "Pressable",
+            "date": "2024-12-18 14:16:19"
+        },
+        {
+            "domain_name": "listentoearth.org",
+            "destination": "Pressable",
+            "date": "2024-12-18 14:12:17"
+        },
+        {
+            "domain_name": "swan-divepilates.com",
+            "destination": "Digital Ocean",
+            "date": "2024-12-18 14:12:01"
+        },
+        {
+            "domain_name": "thebarryteam.ca",
+            "destination": "Kinsta",
+            "date": "2024-12-18 14:09:02"
+        },
+        {
+            "domain_name": "commonwealthherbs.com",
+            "destination": "Pressable",
+            "date": "2024-12-18 14:02:18"
+        },
+        {
+            "domain_name": "coltransportation.com",
+            "destination": "GridPane",
+            "date": "2024-12-18 13:58:18"
+        },
+        {
+            "domain_name": "lftsrq.com",
+            "destination": "Digital Ocean",
+            "date": "2024-12-18 13:56:40"
+        },
+        {
+            "domain_name": "contewest.com",
+            "destination": "Kinsta",
+            "date": "2024-12-18 13:50:25"
+        },
+        {
+            "domain_name": "thekennedysisters.ca",
+            "destination": "Kinsta",
+            "date": "2024-12-18 13:45:08"
+        },
+        {
+            "domain_name": "customizedservices-solutions.com",
+            "destination": "Pressable",
+            "date": "2024-12-18 13:38:53"
+        },
+        {
+            "domain_name": "swingoil.golf",
+            "destination": "Hostinger",
+            "date": "2024-12-18 13:36:57"
+        },
         {
             "domain_name": "kathywinstanley.com",
             "destination": "Pressable",
@@ -10,6 +80,26 @@
             "domain_name": "kateblackwood.com",
             "destination": "Pressable",
             "date": "2024-12-18 13:30:53"
+        },
+        {
+            "domain_name": "spauldingbrick.com",
+            "destination": "Kinsta",
+            "date": "2024-12-18 13:25:50"
+        },
+        {
+            "domain_name": "stephaniedesouza.com",
+            "destination": "Kinsta",
+            "date": "2024-12-18 13:23:44"
+        },
+        {
+            "domain_name": "limitlessnj.com",
+            "destination": "Digital Ocean",
+            "date": "2024-12-18 13:23:00"
+        },
+        {
+            "domain_name": "www.mycarolinacrawlspace.com",
+            "destination": "Pressable",
+            "date": "2024-12-18 13:20:19"
         },
         {
             "domain_name": "sarfleet.com",
@@ -402,11 +492,6 @@
             "date": "2024-12-18 00:25:14"
         },
         {
-            "domain_name": "www.nichireiusa.com",
-            "destination": "Kinsta",
-            "date": "2024-12-18 00:16:26"
-        },
-        {
             "domain_name": "hebervalleymartialarts.com",
             "destination": "Hostinger",
             "date": "2024-12-18 00:03:17"
@@ -415,91 +500,6 @@
             "domain_name": "www.superiorimprints.com",
             "destination": "Kinsta",
             "date": "2024-12-18 00:01:35"
-        },
-        {
-            "domain_name": "playfairdata.com",
-            "destination": "Kinsta",
-            "date": "2024-12-17 23:54:10"
-        },
-        {
-            "domain_name": "6columns.com",
-            "destination": "GoDaddy",
-            "date": "2024-12-17 23:47:55"
-        },
-        {
-            "domain_name": "vennmindhealth.co.nz",
-            "destination": "Digital Ocean",
-            "date": "2024-12-17 23:17:56"
-        },
-        {
-            "domain_name": "edgepsychology.co.nz",
-            "destination": "Digital Ocean",
-            "date": "2024-12-17 22:59:12"
-        },
-        {
-            "domain_name": "twobirdsandi.com.au",
-            "destination": "Digital Ocean",
-            "date": "2024-12-17 22:50:20"
-        },
-        {
-            "domain_name": "trueplumbingut.com",
-            "destination": "A2 Hosting",
-            "date": "2024-12-17 22:41:30"
-        },
-        {
-            "domain_name": "easterninc.com",
-            "destination": "GoDaddy",
-            "date": "2024-12-17 22:39:32"
-        },
-        {
-            "domain_name": "elitedancestudio.org",
-            "destination": "GridPane",
-            "date": "2024-12-17 22:35:38"
-        },
-        {
-            "domain_name": "thegreateru.com",
-            "destination": "Hostinger",
-            "date": "2024-12-17 22:29:57"
-        },
-        {
-            "domain_name": "thegiuliettashop.com",
-            "destination": "IONOS",
-            "date": "2024-12-17 22:29:57"
-        },
-        {
-            "domain_name": "www.wire.org.au",
-            "destination": "Digital Ocean",
-            "date": "2024-12-17 22:26:56"
-        },
-        {
-            "domain_name": "www.weedco.services",
-            "destination": "GoDaddy",
-            "date": "2024-12-17 22:18:01"
-        },
-        {
-            "domain_name": "tulsamen.com",
-            "destination": "Namecheap",
-            "date": "2024-12-17 22:14:45"
-        },
-        {
-            "domain_name": "mirunners.com",
-            "destination": "A2 Hosting",
-            "date": "2024-12-17 22:07:24"
-        },
-        {
-            "domain_name": "maddiestudio.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-17 21:36:56"
-        },
-        {
-            "domain_name": "www.simplexitypd.com",
-            "destination": "Kinsta",
-            "date": "2024-12-17 21:29:36"
-        },
-        {
-            "domain_name": "www.omalleys-pub.com",
-            "destination": "SiteGround",
-            "date": "2024-12-17 21:17:37"
         }
     ],
     "dailyMovedStat": {
@@ -593,12 +593,12 @@
         "2024-12-17": "29355"
     },
     "topDestinationHosts": {
-        "Pressable": 6554,
+        "Pressable": 6559,
         "Bluehost": 3525,
-        "Kinsta": 1887,
-        "Digital Ocean": 1837,
-        "SiteGround": 1682,
-        "Hostinger": 948,
+        "Kinsta": 1892,
+        "Digital Ocean": 1840,
+        "SiteGround": 1685,
+        "Hostinger": 950,
         "GoDaddy": 452,
         "BigScoots": 271,
         "Elementor Hosting": 196,
@@ -606,7 +606,7 @@
         "Wordify": 140,
         "WordPress.com": 124,
         "InMotion Hosting": 115,
-        "GridPane": 112,
+        "GridPane": 113,
         "OVH": 105,
         "A2 Hosting": 85,
         "Namecheap": 79,
