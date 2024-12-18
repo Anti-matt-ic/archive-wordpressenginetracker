@@ -1,10 +1,65 @@
 {
-    "siteCount": 29439,
+    "siteCount": 29461,
     "recentlyMoved": [
+        {
+            "domain_name": "www.testarossa.no",
+            "destination": "Pressable",
+            "date": "2024-12-18 10:25:19"
+        },
+        {
+            "domain_name": "www.vtsc.no",
+            "destination": "Digital Ocean",
+            "date": "2024-12-18 10:17:55"
+        },
+        {
+            "domain_name": "www.vistarrvision.com",
+            "destination": "Kinsta",
+            "date": "2024-12-18 10:17:55"
+        },
+        {
+            "domain_name": "thereconyellowlake.com",
+            "destination": "GoDaddy",
+            "date": "2024-12-18 10:02:50"
+        },
+        {
+            "domain_name": "www.tanngull.no",
+            "destination": "Pressable",
+            "date": "2024-12-18 10:01:26"
+        },
+        {
+            "domain_name": "mapletreefarm.ca",
+            "destination": "Pressable",
+            "date": "2024-12-18 09:59:24"
+        },
+        {
+            "domain_name": "storetvedt.no",
+            "destination": "Pressable",
+            "date": "2024-12-18 09:41:21"
+        },
+        {
+            "domain_name": "smokedapparel.co.nz",
+            "destination": "Digital Ocean",
+            "date": "2024-12-18 09:35:18"
+        },
         {
             "domain_name": "businessforunicorns.com",
             "destination": "Digital Ocean",
             "date": "2024-12-18 09:30:42"
+        },
+        {
+            "domain_name": "lisetheiendom.no",
+            "destination": "Pressable",
+            "date": "2024-12-18 09:18:40"
+        },
+        {
+            "domain_name": "smedsvig-landskap.no",
+            "destination": "Pressable",
+            "date": "2024-12-18 09:18:01"
+        },
+        {
+            "domain_name": "cinch-con.com",
+            "destination": "Kinsta",
+            "date": "2024-12-18 09:05:44"
         },
         {
             "domain_name": "kanevilleumc.org",
@@ -427,11 +482,6 @@
             "date": "2024-12-17 18:45:35"
         },
         {
-            "domain_name": "www.tailordshades.com",
-            "destination": "Pressable",
-            "date": "2024-12-17 18:43:09"
-        },
-        {
             "domain_name": "truecrewwindows.com",
             "destination": "SiteGround",
             "date": "2024-12-17 18:35:42"
@@ -442,64 +492,14 @@
             "date": "2024-12-17 18:35:39"
         },
         {
-            "domain_name": "dcmg.us",
-            "destination": "Kinsta",
-            "date": "2024-12-17 18:30:45"
-        },
-        {
-            "domain_name": "thecraftwinefest.com",
-            "destination": "SiteGround",
-            "date": "2024-12-17 18:29:14"
-        },
-        {
-            "domain_name": "www.swellbuilding.com.au",
-            "destination": "Kinsta",
-            "date": "2024-12-17 18:28:19"
-        },
-        {
-            "domain_name": "davis-cpa.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-17 18:28:04"
-        },
-        {
-            "domain_name": "davidrosslcsw.com",
-            "destination": "Kinsta",
-            "date": "2024-12-17 18:28:04"
-        },
-        {
             "domain_name": "modernglazing.com",
             "destination": "Kinsta",
             "date": "2024-12-17 18:24:08"
         },
         {
-            "domain_name": "lowellcorp.com",
-            "destination": "Kinsta",
-            "date": "2024-12-17 18:13:46"
-        },
-        {
-            "domain_name": "defoxi.com",
-            "destination": "Kinsta",
-            "date": "2024-12-17 18:12:47"
-        },
-        {
-            "domain_name": "www.thetuckeraccounting.com",
-            "destination": "Pressable",
-            "date": "2024-12-17 18:06:17"
-        },
-        {
             "domain_name": "www.whieldoncementworks.com",
             "destination": "Pressable",
             "date": "2024-12-17 18:03:20"
-        },
-        {
-            "domain_name": "www.tigersolutionsgroup.com",
-            "destination": "Pressable",
-            "date": "2024-12-17 17:53:31"
-        },
-        {
-            "domain_name": "syntech.nyc",
-            "destination": "Kinsta",
-            "date": "2024-12-17 17:50:44"
         }
     ],
     "dailyMovedStat": {
@@ -593,10 +593,10 @@
         "2024-12-17": "29355"
     },
     "topDestinationHosts": {
-        "Pressable": 6531,
+        "Pressable": 6537,
         "Bluehost": 3525,
-        "Kinsta": 1877,
-        "Digital Ocean": 1834,
+        "Kinsta": 1879,
+        "Digital Ocean": 1836,
         "SiteGround": 1676,
         "Hostinger": 946,
         "GoDaddy": 450,
