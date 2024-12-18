@@ -1,6 +1,16 @@
 {
-    "siteCount": 29395,
+    "siteCount": 29401,
     "recentlyMoved": [
+        {
+            "domain_name": "gundigest.com",
+            "destination": "Kinsta",
+            "date": "2024-12-18 04:23:35"
+        },
+        {
+            "domain_name": "greenleaf1519.com",
+            "destination": "Hostinger",
+            "date": "2024-12-18 04:00:40"
+        },
         {
             "domain_name": "nikolacuk.com",
             "destination": "Pressable",
@@ -462,11 +472,6 @@
             "date": "2024-12-17 16:59:13"
         },
         {
-            "domain_name": "bespoketimber.co.nz",
-            "destination": "Digital Ocean",
-            "date": "2024-12-17 16:48:16"
-        },
-        {
             "domain_name": "www.gordonsvilleforrent.com",
             "destination": "Digital Ocean",
             "date": "2024-12-17 16:45:53"
@@ -494,11 +499,6 @@
         {
             "domain_name": "rendesign.co.nz",
             "destination": "Digital Ocean",
-            "date": "2024-12-17 16:20:59"
-        },
-        {
-            "domain_name": "renatuslife.com",
-            "destination": "GoDaddy",
             "date": "2024-12-17 16:20:59"
         }
     ],
@@ -595,10 +595,10 @@
     "topDestinationHosts": {
         "Pressable": 6526,
         "Bluehost": 3523,
-        "Kinsta": 1874,
+        "Kinsta": 1875,
         "Digital Ocean": 1832,
         "SiteGround": 1672,
-        "Hostinger": 941,
+        "Hostinger": 942,
         "GoDaddy": 450,
         "BigScoots": 271,
         "Elementor Hosting": 196,
